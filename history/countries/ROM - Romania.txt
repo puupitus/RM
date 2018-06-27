@@ -1,6 +1,6 @@
-﻿capital = 46
+capital =
 
-oob = "ROM"
+oob = ""
 
 ########## PUPPETS #################
 
@@ -36,20 +36,32 @@ set_politics = {
 
 		parties = {
 
-			syndicalism = {
-				popularity = 30
-			}
-
-			conservatism = {
-				popularity = 40
-			}
-
-			fascism = {
-				popularity = 30
-			}
-
+		communism = {
+			popularity = 12.5
 		}
-	ruling_party = conservatism
+		syndicalism = {
+			popularity = 12.5
+		}
+		social_democracy = {
+			popularity = 12.5
+		}
+		liberalism = {
+			popularity = 12.5
+		}
+		conservatism = {
+			popularity = 12.5
+		}
+		authoritarianism = {
+			popularity = 12.5
+		}
+		fascism = {
+			popularity = 12.5
+		}
+		nazism = {
+			popularity = 12.5
+		}
+	}
+	ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -60,14 +72,42 @@ set_politics = {
 create_country_leader = {
   name = ""
 	picture = ""
+	ideology = communist
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
+  name = ""
 	picture = ""
-	ideology = conservatistic
+	ideology = social_democrat
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = liberal
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = conservative
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = authoritarian
 	traits = { rm_default }
 }
 
@@ -75,6 +115,13 @@ create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = fascist
+	traits = { rm_default }
+}
+
+create_country_leader = {
+	name = ""
+	picture = ""
+	ideology = nazi
 	traits = { rm_default }
 }
 

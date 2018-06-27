@@ -1,6 +1,6 @@
-﻿capital = 302
+capital =
 
-oob = "BOL"
+oob = ""
 
 ########## PUPPETS #################
 
@@ -36,21 +36,32 @@ set_politics = {
 
 		parties = {
 
-			syndicalism = {
-				popularity = 51
-			}
-
-
-			conservatism = {
-				popularity = 34
-			}
-
-			fascism = {
-				popularity = 15
-			}
-
+		communism = {
+			popularity = 12.5
 		}
-	ruling_party = conservatism
+		syndicalism = {
+			popularity = 12.5
+		}
+		social_democracy = {
+			popularity = 12.5
+		}
+		liberalism = {
+			popularity = 12.5
+		}
+		conservatism = {
+			popularity = 12.5
+		}
+		authoritarianism = {
+			popularity = 12.5
+		}
+		fascism = {
+			popularity = 12.5
+		}
+		nazism = {
+			popularity = 12.5
+		}
+	}
+	ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -59,23 +70,58 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = "Juan Lechín Oquendo"
-	picture = "juan_lechin_oquendo.dds"
+  name = ""
+	picture = ""
+	ideology = communist
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = "Hernando Siles Reyes"
-	picture = "hernando_siles_reyes.dds"
-	ideology = conservatistic
+  name = ""
+	picture = ""
+	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = "Germán Busch"
-	picture = "german_busch.dds"
+  name = ""
+	picture = ""
+	ideology = liberal
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = conservative
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = authoritarian
+	traits = { rm_default }
+}
+
+create_country_leader = {
+	name = ""
+	picture = ""
 	ideology = fascist
+	traits = { rm_default }
+}
+
+create_country_leader = {
+	name = ""
+	picture = ""
+	ideology = nazi
 	traits = { rm_default }
 }
 
