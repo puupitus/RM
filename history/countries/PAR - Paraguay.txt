@@ -1,4 +1,4 @@
-﻿﻿capital = 301
+﻿capital = 301
 
 oob = "PAR"
 

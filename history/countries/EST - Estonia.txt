@@ -1,4 +1,4 @@
-﻿﻿capital = 13
+﻿capital = 13
 
 oob = "EST"
 
