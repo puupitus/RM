@@ -3,14 +3,14 @@ state={
 	id=16
 	name="STATE_16"
 	manpower = 7038500
-
+	
 	state_category = metropolis
-
+	
 
 	history={
 		owner = FRA
 		victory_points = {
-			11506 50
+			11506 50 
 		}
 		buildings = {
 			infrastructure = 8
@@ -20,10 +20,15 @@ state={
 			air_base = 5
 		}
 		add_core_of = FRA
-
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 4
+				industrial_complex = 6
+			}
+		}
 	}
 
 	provinces={
-		6547 6949 9507 9523 9534 9725 11491 11506 11518
+		6547 6949 9507 9523 9534 9725 11491 11506 11518 
 	}
 }

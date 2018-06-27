@@ -62,21 +62,21 @@ create_country_leader = {
   name = "Miguel Reale"
 	picture = "miguel_reale.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Washington Luís"
 	picture = "washington_luis.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Plínio Salgado"
 	picture = "plinio_salgado.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

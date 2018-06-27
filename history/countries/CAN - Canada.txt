@@ -61,21 +61,21 @@ create_country_leader = {
   name = "Robert B. Russell"
 	picture = "robert_b_russell.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Robert Borden"
 	picture = "robert_borden.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Adrien Arcand"
 	picture = "adrien_arcand.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

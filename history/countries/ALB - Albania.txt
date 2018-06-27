@@ -64,7 +64,7 @@ create_country_leader = {
 	name = "Enver Hoxha"
 	picture = "enver_hoxha.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 
@@ -72,14 +72,14 @@ create_country_leader = {
 	name = "Ahmet Zogu"
 	picture = "ahmet_zogu.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Tefik Mborja"
 	picture = "tefik_mborja.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

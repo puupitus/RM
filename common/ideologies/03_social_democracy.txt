@@ -1,11 +1,12 @@
 ideologies = {
 
-	conservatism = {
+
+social_democracy = {
 
 		types = {
 
-      conservatistic = {
-      }
+      social_democrat = {
+			}
 
 		}
 
@@ -17,7 +18,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 194 198 215 }
+		color = { 255 127 127 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -34,7 +35,7 @@ ideologies = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_democratic = yes # uses the democratic AI behaviour
+	  ai_communist = yes # uses the commie AI behaviour
 
 		}
 

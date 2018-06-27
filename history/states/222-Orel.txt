@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = SOV
 		victory_points = {
 			9355 10
 		}

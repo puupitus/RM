@@ -6,15 +6,14 @@ state={
 	resources={
 		oil=5 # was: 6
 	}
-
+	
 	state_category = pastoral
 
 
 	history={
-		owner = BRI
-		add_core_of = SAU
+		owner = ENG
 		victory_points = {
-			7960 1
+			7960 1 
 		}
 		buildings = {
 			infrastructure = 2
@@ -29,6 +28,6 @@ state={
 	}
 
 	provinces={
-		2048 7960 8051 8108 10904
+		2048 7960 8051 8108 10904 
 	}
 }

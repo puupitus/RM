@@ -62,21 +62,21 @@ create_country_leader = {
   name = "Juan Lechín Oquendo"
 	picture = "juan_lechin_oquendo.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Hernando Siles Reyes"
 	picture = "hernando_siles_reyes.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Germán Busch"
 	picture = "german_busch.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

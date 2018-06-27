@@ -64,7 +64,7 @@ create_country_leader = {
   name = "Adela Pankhurst"
 	picture = "adela_pankhurst.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 
@@ -73,14 +73,14 @@ create_country_leader = {
 	name = "Stanley Bruce"
 	picture = "stanley_bruce.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Eric Campbell"
 	picture = "eric_campbell.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

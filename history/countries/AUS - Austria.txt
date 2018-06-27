@@ -64,21 +64,21 @@ create_country_leader = {
   name = "Karl Renner"
 	picture = "karl_renner.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Franz Ferdinand I"
 	picture = "franz_ferdinand_i.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Engelbert Dollfuß"
 	picture = "engelbert_dollfuss.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

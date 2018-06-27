@@ -2,7 +2,7 @@ state={
 	id=699
 	name="STATE_699"
 	manpower = 32000
-
+	
 	state_category = wasteland
 
 	history={
@@ -17,8 +17,8 @@ state={
 			}
 		}
 	}
-
+	
 	provinces={
-		4920 5012 7979 8038 8111 10875 12857
+		4920 5012 7979 8038 8111 10875 12857 
 	}
 }

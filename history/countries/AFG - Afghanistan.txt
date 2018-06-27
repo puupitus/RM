@@ -63,21 +63,21 @@ create_country_leader = {
   name = "Mahmud Tarzi"
 	picture = "mahmud_tarzi.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Amanullah I"
 	picture = "amanullah_i.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Amanullah I"
 	picture = "amanullah_i.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

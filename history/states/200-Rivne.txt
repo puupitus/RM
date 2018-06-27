@@ -6,7 +6,7 @@ state={
 	state_category = town
 
 	history={
-		owner = RUS
+		owner = SOV
 		victory_points = {
 			11405 1
 		}
@@ -16,10 +16,14 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = UKR
-
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
 	}
 
 	provinces={
-		429 588 3399 3767 6596 9571 9729 11405 11700
+		429 588 3399 3767 6596 9571 9729 11405 11700 
 	}
 }

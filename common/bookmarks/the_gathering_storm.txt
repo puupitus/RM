@@ -1,61 +1,61 @@
 bookmarks = {
 	bookmark = {
-		name = "NEU_NAME"
-		desc = "NEU_DESC"
+		name = "RM_NAME"
+		desc = "RM_DESC"
 		date = 1933.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "GER"
 		default = yes
 
 		"GER"={
-			history = "GER_NEU_DESC"
+			history = "GER_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
 		"AUS"={
-			history = "AUS_NEU_DESC"
+			history = "AUS_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
-		"RUS"={
-			history = "RUS_NEU_DESC"
+		"SOV"={
+			history = "SOV_RM_DESC"
 			ideology = syndicalism
 			ideas = {	}
 			focuses = { }
 		}
 		"ITA"={
-			history = "ITA_NEU_DESC"
+			history = "ITA_RM_DESC"
 			ideology = fascism
 			ideas = {	}
 			focuses = { }
 		}
-		"BRI"={
-			history = "BRI_NEU_DESC"
+		"ENG"={
+			history = "ENG_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
 		"FRA"={
-			history = "FRA_NEU_DESC"
+			history = "FRA_RM_DESC"
 			ideology = syndicalism
 			ideas = {	}
 			focuses = { }
 		}
 		"JAP"={
-			history = "JAP_NEU_DESC"
+			history = "JAP_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
 
 	  "---"={
-			history = "OTHER_NEU_DESC"
+			history = "OTHER_RM_DESC"
 		}
 		"FIN"={
 			minor = yes
-			history = "FIN_NEU_DESC"
+			history = "FIN_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }

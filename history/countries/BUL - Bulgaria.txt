@@ -63,21 +63,21 @@ create_country_leader = {
   name = "Vasil Kolarov"
 	picture = "vasil_kolarov.dds"
 	ideology = syndicalist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Kimon Georgiev"
 	picture = "kimon_georgiev.dds"
 	ideology = conservatistic
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 create_country_leader = {
 	name = "Hristo Lukov"
 	picture = "hristo_lukov.dds"
 	ideology = fascist
-	traits = { neu_default }
+	traits = { rm_default }
 }
 
 ########## GENERALS ###########

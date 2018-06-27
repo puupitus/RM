@@ -6,12 +6,12 @@ state= {
 		chromium=45 # was: 84
 		steel = 10 # was: 20
 	}
-
+	
 	state_category = city
 
 	history= {
 		add_core_of = GRE
-		owner = GRE
+		owner = TUR
 		victory_points = {
 			9833 20
 		}
@@ -25,7 +25,7 @@ state= {
 				naval_base = 8
 			}
 		}
-		add_core_of = OTT
+		add_core_of = TUR
 	}
 	provinces=
 	{

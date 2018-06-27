@@ -6,7 +6,7 @@ state=
 	manpower=21657
 	history=
 	{
-		owner = NGA
+		owner = JAP
 		add_core_of = JAP
 		buildings = {
 			infrastructure = 3
@@ -18,13 +18,13 @@ state=
 			13023 = {
 				naval_base = 1
 			}
-		}
+		}	
 		victory_points = {
 			3995 1
 		 }
 
 	}
 	provinces={
-		3995 13023 13024
+		3995 13023 13024 
 	}
 }
