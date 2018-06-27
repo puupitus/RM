@@ -1,0 +1,3 @@
+FIN_imperial = { color = rgb { 255 206 0 } }
+FRA_blue = { color = rgb { 48 73 219 } }
+KOR_japanese = { color = rgb { 186 226 255 } }

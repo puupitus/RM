@@ -1,0 +1,86 @@
+﻿capital = 285
+
+oob = "AST"
+
+########## PUPPETS #################
+
+
+########## STARTING TECH ###########
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	early_submarine = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	transport = 1
+	early_carrier = 1
+}
+
+set_convoys = 50
+set_research_slots = 3
+
+########### POLITICS #############
+
+set_politics = {
+
+		parties = {
+
+
+			syndicalism = {
+				popularity = 24
+			}
+
+
+			conservatism = {
+				popularity = 49
+			}
+
+			fascism = {
+				popularity = 27
+			}
+
+		}
+	ruling_party = syndicalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+############ COUNTRY LEADERS #############
+
+
+create_country_leader = {
+  name = "Adela Pankhurst"
+	picture = "adela_pankhurst.dds"
+	ideology = syndicalist
+	traits = { neu_default }
+}
+
+
+
+create_country_leader = {
+	name = "Stanley Bruce"
+	picture = "stanley_bruce.dds"
+	ideology = conservatistic
+	traits = { neu_default }
+}
+
+create_country_leader = {
+	name = "Eric Campbell"
+	picture = "eric_campbell.dds"
+	ideology = fascist
+	traits = { neu_default }
+}
+
+########## GENERALS ###########
