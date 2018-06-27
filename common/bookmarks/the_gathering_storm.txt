@@ -9,43 +9,43 @@ bookmarks = {
 
 		"GER"={
 			history = "GER_RM_DESC"
-			ideology = conservatism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"AUS"={
 			history = "AUS_RM_DESC"
-			ideology = conservatism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"SOV"={
 			history = "SOV_RM_DESC"
-			ideology = syndicalism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"ITA"={
 			history = "ITA_RM_DESC"
-			ideology = fascism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"ENG"={
 			history = "ENG_RM_DESC"
-			ideology = conservatism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"FRA"={
 			history = "FRA_RM_DESC"
-			ideology = syndicalism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
 		"JAP"={
 			history = "JAP_RM_DESC"
-			ideology = conservatism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
@@ -56,7 +56,7 @@ bookmarks = {
 		"FIN"={
 			minor = yes
 			history = "FIN_RM_DESC"
-			ideology = conservatism
+			ideology = communism
 			ideas = {	}
 			focuses = { }
 		}
