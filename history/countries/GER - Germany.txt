@@ -1,7 +1,7 @@
 ﻿capital = 64
 
 oob = "GER"
-
+set_cosmetic_tag = GER_com
 ########## PUPPETS #################
 
 

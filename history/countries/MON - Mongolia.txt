@@ -1,4 +1,3 @@
-﻿capital = 330
 
 oob = "MON"
 

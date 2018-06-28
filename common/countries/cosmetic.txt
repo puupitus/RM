@@ -1,3 +1,24 @@
-FIN_imperial = { color = rgb { 255 206 0 } }
-FRA_blue = { color = rgb { 48 73 219 } }
-KOR_japanese = { color = rgb { 186 226 255 } }
+KOR_jap = {
+	color = rgb { 186 226 255 }
+	color_ui = rgb { 186 226 255 }
+}
+EST_com = {
+	color = rgb { 135 25 35 }
+	color_ui = rgb { 135 25 35 }
+}
+FIN_com = {
+	color = rgb { 155 30 40 }
+	color_ui = rgb { 155 30 40 }
+}
+GER_com = {
+	color = rgb { 95 22 28 }
+	color_ui = rgb { 95 22 28 }
+}
+LAT_com = {
+	color = rgb { 115 20 30 }
+	color_ui = rgb { 115 20 30 }
+}
+LIT_com = {
+	color = rgb { 140 30 15 }
+	color_ui = rgb { 140 30 15 }
+}
