@@ -1,4 +1,4 @@
-capital = 548
+﻿capital = 548
 
 oob = "ISR"
 
