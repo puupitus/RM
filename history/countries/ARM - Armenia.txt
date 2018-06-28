@@ -53,7 +53,7 @@ set_politics = {
 		authoritarianism = {
 			popularity = 12.5
 		}
-		fascism = {
+		corporatism = {
 			popularity = 12.5
 		}
 		nazism = {
@@ -113,7 +113,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = fascist
+	ideology = corporatist
 	traits = { rm_default }
 }
 

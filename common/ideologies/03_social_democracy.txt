@@ -35,7 +35,7 @@ social_democracy = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_communist = yes # uses the commie AI behaviour
+	  ai_democratic = yes # uses the democratic AI behaviour
 
 		}
 

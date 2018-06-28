@@ -532,34 +532,26 @@ D15 = {
 	color_ui = rgb { 252 182 112 }
 }
 USI = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 255 66 66 }
+    color_ui = rgb { 255 66 66 }
 }
 AOI = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 0 175 35 }
+    color_ui = rgb { 0 175 35 }
 }
 AEF = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 116 179 224 }
+    color_ui = rgb { 116 179 224 }
 }
 AOF = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 65 158 224 }
+    color_ui = rgb { 65 158 224 }
 }
 BWA = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 146 204 0 }
+    color_ui = rgb { 146 204 0 }
 }
-ALG = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
-}
-MOR = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
-}
-TUN = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+AFN = {
+    color = rgb { 12 149 247 }
+    color_ui = rgb { 12 149 247 }
 }
