@@ -3,16 +3,16 @@ KOR_jap = {
 	color_ui = rgb { 186 226 255 }
 }
 EST_com = {
-	color = rgb { 135 25 35 }
-	color_ui = rgb { 135 25 35 }
+	color = rgb { 105 32 38 }
+	color_ui = rgb { 105 32 38 }
 }
 FIN_com = {
 	color = rgb { 155 30 40 }
 	color_ui = rgb { 155 30 40 }
 }
 GER_com = {
-	color = rgb { 95 22 28 }
-	color_ui = rgb { 95 22 28 }
+	color = rgb { 135 25 35 }
+	color_ui = rgb { 135 25 35 }
 }
 LAT_com = {
 	color = rgb { 115 20 30 }

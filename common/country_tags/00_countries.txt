@@ -114,7 +114,7 @@ ZIM = "countries/Zimbabwe.txt"
 
 ###### RED MENACE MODDED ######
 
-USI = "countries/Syndicalist Italy.txt"
+
 AOI = "countries/Italian East Africa.txt"
 AEF = "countries/Equatorial Africa.txt"
 AOF = "countries/French West Africa.txt"

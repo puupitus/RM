@@ -1,4 +1,3 @@
-﻿capital = 304
 
 oob = "PAN"
 

@@ -1,4 +1,3 @@
-﻿capital = 318
 
 oob = "HAI"
 
