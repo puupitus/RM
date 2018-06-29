@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = AOI
+		owner = ETH
 		victory_points = {
 			12766 1
 		}

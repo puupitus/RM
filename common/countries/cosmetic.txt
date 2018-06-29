@@ -22,3 +22,35 @@ LIT_com = {
 	color = rgb { 140 30 15 }
 	color_ui = rgb { 140 30 15 }
 }
+AFN_syn = {
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
+}
+AOF_syn = {
+	color = rgb { 255 96 96 }
+	color_ui = rgb { 255 96 96 }
+}
+AEF_syn = {
+	color = rgb { 197 92 106 }
+	color_ui = rgb { 197 92 106 }
+}
+VIN_syn = {
+	color = rgb { 219 103 128 }
+	color_ui = rgb { 219 103 128 }
+}
+COG_bel = {
+	color = rgb { 170 160 8 }
+	color_ui = rgb { 170 160 8 }
+}
+KEN_bri = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+ZIM_bri = {
+	color = rgb { 7 7 239 }
+	color_ui = rgb { 7 7 239 }
+}
+INS_hol = {
+	color = rgb { 229 131 66 }
+	color_ui = rgb { 229 131 66 }
+}

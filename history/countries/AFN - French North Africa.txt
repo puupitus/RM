@@ -1,7 +1,7 @@
 ﻿capital = 459
 
 oob = ""
-
+set_cosmetic_tag = AFN_syn
 ########## PUPPETS #################
 
 

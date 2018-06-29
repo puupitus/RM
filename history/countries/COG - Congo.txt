@@ -1,7 +1,7 @@
 ﻿capital = 295
 
 oob = "COG"
-
+set_cosmetic_tag = COG_bel
 ########## PUPPETS #################
 
 

@@ -1,7 +1,7 @@
 ﻿capital = 545
 
 oob = "ZIM"
-
+set_cosmetic_tag = ZIM_bri
 ########## PUPPETS #################
 
 

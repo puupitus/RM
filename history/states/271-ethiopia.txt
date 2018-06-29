@@ -11,7 +11,7 @@ state=
 
 	history=
 	{
-		owner = AOI
+		owner = ETH
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2

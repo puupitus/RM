@@ -1,7 +1,7 @@
 ﻿capital = 272
 
 oob = ""
-
+set_cosmetic_tag = AOF_syn
 ########## PUPPETS #################
 
 
