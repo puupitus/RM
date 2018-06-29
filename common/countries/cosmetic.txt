@@ -54,3 +54,35 @@ INS_hol = {
 	color = rgb { 229 131 66 }
 	color_ui = rgb { 229 131 66 }
 }
+ETH_ita = {
+	color = rgb { 0 175 35 }
+	color_ui = rgb { 0 175 35 }
+}
+BWA_bri = {
+    color = rgb { 65 158 224 }
+    color_ui = rgb { 65 158 224 }
+}
+RAJ_bri = {
+	color = rgb { 255 178 102 }
+	color_ui = rgb { 255 178 102 }
+}
+ANG_por = {
+	color = rgb { 37 140 61 }
+	color_ui = rgb { 37 140 61 }
+}
+MZB_por = {
+	color = rgb { 50 120 55 }
+	color_ui = rgb { 50 120 55 }
+}
+SYR_syn = {
+	color = rgb { 204 112 132 }
+	color_ui = rgb { 204 112 132 }
+}
+LBA_ita = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 67 127 63 }
+}
+MAL_bri = {
+	color = rgb { 252 209 22 }
+	color_ui = rgb { 252 209 22 }
+}

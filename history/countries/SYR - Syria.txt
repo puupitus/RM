@@ -1,7 +1,7 @@
 ﻿capital = 554
 
 oob = "SYR"
-
+set_cosmetic_tag = SYR_syn
 ########## PUPPETS #################
 
 

@@ -427,8 +427,8 @@ MAN = {
 	color_ui = rgb { 255 197 0 }
 }
 ANG = {
-	color = rgb { 37 140 61 }
-	color_ui = rgb { 37 140 61 }
+	color = rgb { 205 2 43 }
+	color_ui = rgb { 205 2 43 }
 }
 
 COG = {
