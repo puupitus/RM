@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 234 206 68  }
 }
 FRA = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 201 56 93 }
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -58,8 +58,8 @@ SPR = {
 	color_ui = rgb { 252 222 2 }
 }
 ITA = {
-	color = rgb { 224 49 49 }
-	color_ui = rgb { 224 49 49 }
+	color = rgb { 244 49 49 }
+	color_ui = rgb { 244 49 49 }
 }
 ROM = {
 	color = rgb { 215 196 72 }
@@ -122,8 +122,8 @@ ARG = {
 	color_ui = rgb { 117 174 224 }
 }
 AST = {
-	color = rgb { 0 80 230 }
-	color_ui = rgb { 0 80 230 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 BHU = {
 	color = rgb { 255 214 26 }
@@ -142,8 +142,8 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = rgb { 0 71 160 }
-	color_ui = rgb { 0 71 160 }
+	color = rgb { 75 109 137  }
+	color_ui = rgb { 75 109 137  }
 }
 CHL = {
 	color = rgb { 160 160 160 }
@@ -202,8 +202,8 @@ NIC = {
 	color_ui = rgb { 146 179 191 }
 }
 NZL = {
-	color = rgb { 75 109 137 }
-	color_ui = rgb { 75 109 137 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 PAN = {
 	color = rgb { 152 130 191 }
@@ -304,8 +304,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 190 190 225 }
-	color_ui = rgb { 190 190 225 }
+	color = rgb { 244 199 199 }
+	color_ui = rgb { 244 199 199 }
 }
 
 PRC = {

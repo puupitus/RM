@@ -1,6 +1,6 @@
 KOR_jap = {
-	color = rgb { 186 226 255 }
-	color_ui = rgb { 186 226 255 }
+	color = rgb { 215 215 215 }
+	color_ui = rgb { 215 215 215 }
 }
 EST_com = {
 	color = rgb { 105 32 38 }
@@ -13,6 +13,10 @@ FIN_com = {
 GER_com = {
 	color = rgb { 135 25 35 }
 	color_ui = rgb { 135 25 35 }
+}
+HUN_com = {
+	color = rgb { 165 40 55 }
+	color_ui = rgb { 155 30 40 }
 }
 LAT_com = {
 	color = rgb { 115 20 30 }
@@ -27,28 +31,28 @@ AFN_syn = {
 	color_ui = rgb { 216 41 41 }
 }
 AOF_syn = {
-	color = rgb { 255 96 96 }
-	color_ui = rgb { 255 96 96 }
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
 }
 AEF_syn = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 197 92 106 }
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
 }
 VIN_syn = {
-	color = rgb { 219 103 128 }
-	color_ui = rgb { 219 103 128 }
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
 }
 COG_bel = {
 	color = rgb { 170 160 8 }
 	color_ui = rgb { 170 160 8 }
 }
 KEN_bri = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 57 113 228 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 ZIM_bri = {
-	color = rgb { 7 7 239 }
-	color_ui = rgb { 7 7 239 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 INS_hol = {
 	color = rgb { 229 131 66 }
@@ -59,24 +63,24 @@ ETH_ita = {
 	color_ui = rgb { 0 175 35 }
 }
 BWA_bri = {
-    color = rgb { 65 158 224 }
-    color_ui = rgb { 65 158 224 }
+    color = rgb { 0 74 127 }
+    color_ui = rgb { 0 74 127 }
 }
 RAJ_bri = {
 	color = rgb { 255 178 102 }
 	color_ui = rgb { 255 178 102 }
 }
 ANG_por = {
-	color = rgb { 37 140 61 }
-	color_ui = rgb { 37 140 61 }
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 39 116 70 }
 }
 MZB_por = {
-	color = rgb { 50 120 55 }
-	color_ui = rgb { 50 120 55 }
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 39 116 70 }
 }
 SYR_syn = {
-	color = rgb { 204 112 132 }
-	color_ui = rgb { 204 112 132 }
+	color = rgb { 216 41 41 }
+	color_ui = rgb { 216 41 41 }
 }
 LBA_ita = {
 	color = rgb { 67 127 63 }

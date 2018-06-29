@@ -11,10 +11,10 @@ state={
 	history={
 		owner = AEF
 		victory_points = {
-			8193 2
+			8193 3
 		}
 		victory_points = {
-			5139 1
+			5139 5
 		}
 		buildings = {
 			infrastructure = 3
