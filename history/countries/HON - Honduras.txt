@@ -1,4 +1,4 @@
-
+﻿
 oob = "HON"
 
 ########## PUPPETS #################
@@ -38,7 +38,7 @@ set_politics = {
 		communism = {
 			popularity = 12.5
 		}
-		syndicalism = {
+		socialism = {
 			popularity = 12.5
 		}
 		social_democracy = {
@@ -78,7 +78,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = syndicalist
+	ideology = socialist
 	traits = { rm_default }
 }
 

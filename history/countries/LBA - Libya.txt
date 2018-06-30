@@ -1,7 +1,7 @@
 ﻿capital = 448
 
 oob = "LBA"
-set_cosmetic_tag = LBA_syn
+set_cosmetic_tag = LBA_soc
 ########## PUPPETS #################
 
 
@@ -39,7 +39,7 @@ set_politics = {
 		communism = {
 			popularity = 12.5
 		}
-		syndicalism = {
+		socialism = {
 			popularity = 12.5
 		}
 		social_democracy = {
@@ -61,7 +61,7 @@ set_politics = {
 			popularity = 12.5
 		}
 	}
-	ruling_party = syndicalism
+	ruling_party = socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -79,7 +79,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = syndicalist
+	ideology = socialist
 	traits = { rm_default }
 }
 
