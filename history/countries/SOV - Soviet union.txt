@@ -1,7 +1,7 @@
 ﻿capital = 219
 
 oob = "SOV"
-
+create_faction = "Fourth International"
 ########## PUPPETS #################
 
 
