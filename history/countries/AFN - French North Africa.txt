@@ -1,7 +1,7 @@
 ﻿capital = 459
 
 oob = "AFN"
-set_cosmetic_tag = AFN_syn
+set_cosmetic_tag = AFN_fra
 ########## PUPPETS #################
 
 
@@ -61,7 +61,7 @@ set_politics = {
 			popularity = 12.5
 		}
 	}
-	ruling_party = syndicalism
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

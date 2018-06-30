@@ -1,4 +1,4 @@
-﻿capital = 291
+
 
 oob = "IRQ"
 

@@ -1,8 +1,8 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 122 122 122 }
+	color_ui = rgb { 122 122 122 }
 }
 ENG = {
 	color = rgb { 0 74 127 }
@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 234 206 68  }
 }
 FRA = {
-	color = rgb { 216 41 41 }
-	color_ui = rgb { 216 41 41 }
+	color = rgb { 234 15 15 }
+	color_ui = rgb { 234 15 15 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -34,12 +34,12 @@ CZE = {	color = rgb { 8 99 156 }
 		color_ui = rgb { 8 99 156 }
 }
 POL = {
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 194 198 215 }
+	color = rgb { 197 92 106 }
+	color_ui = rgb { 197 92 106 }
 }
 AUS = {
-	color = rgb { 104 104 104 }
-	color_ui = rgb { 104 104 104 }
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 194 198 215 }
 }
 LIT = {
 	color = rgb { 219 219 119 }
@@ -70,8 +70,8 @@ YUG = {
 	color_ui = rgb { 0 56 147 }
 }
 SWI = {
-	color = rgb { 224 5 5 }
-	color_ui = rgb { 193 81 81 }
+	color = rgb { 244 199 199 }
+	color_ui = rgb { 244 199 199 }
 }
 TUR = {
 	color = rgb { 189 18 32 }
@@ -186,8 +186,8 @@ JAP = {
 	color_ui = rgb { 215 215 215 }
 }
 LIB = {
-	color = rgb { 170 10 10 }
-	color_ui = rgb { 170 10 10 }
+	color = rgb { 130 130 130 }
+	color_ui = rgb { 130 130 130 }
 }
 MEX = {
 	color = rgb { 104 152 83 }
@@ -246,8 +246,8 @@ URG = {
 	color_ui = rgb { 0 53 169 }
 }
 VEN = {
-	color = rgb { 255 50 50 }
-	color_ui = rgb { 255 50 50 }
+	color = rgb { 255 240 178 }
+	color_ui = rgb { 255 240 178 }
 }
 YUN = {
 	color = rgb { 114 148 80 }
@@ -304,8 +304,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 244 199 199 }
-	color_ui = rgb { 244 199 199 }
+	color = rgb { 165 165 165 }
+	color_ui = rgb { 165 165 165 }
 }
 
 PRC = {
