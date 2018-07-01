@@ -9,13 +9,13 @@ bookmarks = {
 
 		"GER"={
 			history = "GER_RM_DESC"
-			ideology = communism
+			ideology = social_democracy
 			ideas = {	}
 			focuses = { }
 		}
 		"AUS"={
 			history = "AUS_RM_DESC"
-			ideology = communism
+			ideology = fascism
 			ideas = {	}
 			focuses = { }
 		}
@@ -27,13 +27,13 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_RM_DESC"
-			ideology = communism
+			ideology = socialism
 			ideas = {	}
 			focuses = { }
 		}
 		"ENG"={
 			history = "ENG_RM_DESC"
-			ideology = communism
+			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
@@ -45,7 +45,7 @@ bookmarks = {
 		}
 		"JAP"={
 			history = "JAP_RM_DESC"
-			ideology = communism
+			ideology = authoritarianism
 			ideas = {	}
 			focuses = { }
 		}

@@ -1,7 +1,7 @@
 ﻿capital = 10
 
 oob = "POL"
-
+set_cosmetic_tag = POL_wsc
 ########## PUPPETS #################
 
 

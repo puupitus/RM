@@ -62,7 +62,7 @@ guiTypes = {
 
 			gridBoxType = {
 				name = "parties_grid"
-				position = { x = -338 y = 97 }
+				position = { x = -22 y = 97 }
 				size = { width = 230 height = 80 }
 				slotsize = { width = 230 height = 22 }
 				format = "UPPER_LEFT"
