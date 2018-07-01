@@ -110,7 +110,7 @@ guiTypes = {
 				position = { x = 12 y = 5 }
 				font = "hoi_18mbs"
 				text = "ideology"
-				maxWidth = 100
+				maxWidth = 200
 				maxHeight = 20
 			}
 
