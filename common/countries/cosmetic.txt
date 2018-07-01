@@ -26,25 +26,29 @@ LIT_com = {
 	color = rgb { 140 30 15 }
 	color_ui = rgb { 140 30 15 }
 }
+GEO_com = {
+	color = rgb { 145 35 20 }
+	color_ui = rgb { 145 35 20 }
+}
 AFN_fra = {
 	color = rgb { 0 58 193 }
 	color_ui = rgb { 0 58 193 }
 }
 AFN_com = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 189 18 32 }
+	color_ui = rgb { 189 18 32 }
 }
 AOF_com = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 189 18 32 }
+	color_ui = rgb { 189 18 32 }
 }
 AEF_com = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 189 18 32 }
+	color_ui = rgb { 189 18 32 }
 }
 VIN_com = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 189 18 32 }
+	color_ui = rgb { 189 18 32 }
 }
 COG_bel = {
 	color = rgb { 170 160 8 }
@@ -83,8 +87,8 @@ MZB_por = {
 	color_ui = rgb { 39 116 70 }
 }
 SYR_com = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 189 18 32 }
+	color_ui = rgb { 189 18 32 }
 }
 LBA_soc = {
 	color = rgb { 244 49 49 }

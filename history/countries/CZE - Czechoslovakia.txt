@@ -1,4 +1,3 @@
-﻿capital = 9
 
 oob = "CZE"
 
@@ -54,7 +53,7 @@ set_politics = {
 		authoritarianism = {
 			popularity = 12.5
 		}
-		corporatism = {
+		fascism = {
 			popularity = 12.5
 		}
 		nazism = {
@@ -114,7 +113,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = corporatist
+	ideology = fascist
 	traits = { rm_default }
 }
 

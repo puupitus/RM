@@ -2,6 +2,8 @@
 
 oob = "SOV"
 create_faction = "Fourth International"
+add_to_faction = FRA
+add_to_faction = ITA
 ########## PUPPETS #################
 
 
@@ -54,7 +56,7 @@ set_politics = {
 		authoritarianism = {
 			popularity = 12.5
 		}
-		corporatism = {
+		fascism = {
 			popularity = 12.5
 		}
 		nazism = {
@@ -114,7 +116,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = corporatist
+	ideology = fascist
 	traits = { rm_default }
 }
 
