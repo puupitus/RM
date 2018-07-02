@@ -1,6 +1,6 @@
-﻿
+﻿capital = 564
 oob = "MON"
-
+set_cosmetic_tag = MON_com
 ########## PUPPETS #################
 
 

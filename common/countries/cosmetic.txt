@@ -50,6 +50,10 @@ UKR_com = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
+MON_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
 AFN_fra = {
 	color = rgb { 0 58 193 }
 	color_ui = rgb { 0 58 193 }

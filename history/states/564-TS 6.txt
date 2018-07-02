@@ -12,7 +12,10 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = MON
+		victory_points = {
+			7816 3
+		}
 		buildings = {
 			infrastructure = 4
 
@@ -21,6 +24,6 @@ state={
 	}
 
 	provinces={
-		1696 4705 4766 4837 7751 7816 7835 7860 10528 10658 12507 12644 
+		1696 4705 4766 4837 7751 7816 7835 7860 10528 10658 12507 12644
 	}
 }
