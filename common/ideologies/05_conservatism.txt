@@ -34,7 +34,8 @@ ideologies = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_democratic = yes # uses the democratic AI behaviour
+		ai_neutral = yes
+		can_be_boosted = no
 
 		}
 

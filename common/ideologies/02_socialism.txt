@@ -35,7 +35,8 @@ socialism = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_communist = yes # uses the commie AI behaviour
+		ai_neutral = yes
+		can_be_boosted = no
 
 		}
 
