@@ -1,10 +1,7 @@
-﻿capital = 126
+capital = 42
 
-oob = "ENG"
-create_faction = "League of Nations"
-add_to_faction = LUX
-add_to_faction = SWI
-add_to_faction = SAA
+oob = "SAA"
+
 ########## PUPPETS #################
 
 

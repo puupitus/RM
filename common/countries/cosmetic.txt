@@ -55,18 +55,26 @@ MON_com = {
 	color_ui = rgb { 125 13 24 }
 }
 AFN_fra = {
-	color = rgb { 0 58 193 }
-	color_ui = rgb { 0 58 193 }
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
 }
-AOF_com = {
+AOF_fra = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+AEF_fra = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+VIN_fra = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+FRA_com = {
 	color = rgb { 189 18 32 }
 	color_ui = rgb { 189 18 32 }
 }
-AEF_com = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
-}
-VIN_com = {
+FRA_soc = {
 	color = rgb { 189 18 32 }
 	color_ui = rgb { 189 18 32 }
 }
@@ -95,8 +103,16 @@ BWA_bri = {
     color_ui = rgb { 0 74 127 }
 }
 RAJ_bri = {
-	color = rgb { 255 178 102 }
-	color_ui = rgb { 255 178 102 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
+}
+CAN_bri = {
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
+}
+SAF_bri = {
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 ANG_por = {
 	color = rgb { 39 116 70 }

@@ -2,9 +2,7 @@
 
 oob = "SOV"
 set_cosmetic_tag = SOV_com
-create_faction = "Fourth International"
-add_to_faction = FRA
-add_to_faction = ITA
+create_faction = "Comintern"
 ########## PUPPETS #################
 
 

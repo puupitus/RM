@@ -1,10 +1,7 @@
-﻿capital = 126
+capital = 499
 
-oob = "ENG"
-create_faction = "League of Nations"
-add_to_faction = LUX
-add_to_faction = SWI
-add_to_faction = SAA
+oob = "BAH"
+
 ########## PUPPETS #################
 
 
@@ -64,7 +61,7 @@ set_politics = {
 			popularity = 12.5
 		}
 	}
-	ruling_party = conservatism
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

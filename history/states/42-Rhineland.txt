@@ -11,8 +11,9 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = GER
-		victory_points = { 11435 10 }
+		owner = SAA
+		victory_points = { 11435 5 }
+		victory_points = { 11531 10 }
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 3
@@ -22,7 +23,7 @@ state={
 
 
 
-		
+
 
 		1939.1.1 ={
 			buildings = {

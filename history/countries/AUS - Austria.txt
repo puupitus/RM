@@ -1,8 +1,7 @@
 ﻿capital = 4
 
 oob = "AUS"
-create_faction = "New Order"
-add_to_faction = HUN
+
 ########## PUPPETS #################
 
 

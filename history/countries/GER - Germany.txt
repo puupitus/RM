@@ -1,7 +1,8 @@
 ﻿capital = 64
 
 oob = "GER"
-
+create_faction = "LSI"
+add_to_faction = ITA
 ########## PUPPETS #################
 
 

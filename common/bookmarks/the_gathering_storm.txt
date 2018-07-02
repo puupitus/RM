@@ -13,8 +13,8 @@ bookmarks = {
 			ideas = {	}
 			focuses = { }
 		}
-		"AUS"={
-			history = "AUS_RM_DESC"
+		"USA"={
+			history = "USA_RM_DESC"
 			ideology = fascism
 			ideas = {	}
 			focuses = { }
@@ -25,21 +25,21 @@ bookmarks = {
 			ideas = {	}
 			focuses = { }
 		}
-		"ITA"={
-			history = "ITA_RM_DESC"
-			ideology = socialism
-			ideas = {	}
-			focuses = { }
-		}
 		"ENG"={
 			history = "ENG_RM_DESC"
 			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
+		"ITA"={
+			history = "ITA_RM_DESC"
+			ideology = socialism
+			ideas = {	}
+			focuses = { }
+		}
 		"FRA"={
 			history = "FRA_RM_DESC"
-			ideology = communism
+			ideology = social_democracy
 			ideas = {	}
 			focuses = { }
 		}

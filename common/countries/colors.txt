@@ -1,8 +1,8 @@
 #reload countrycolors
 
 GER = {
-	color = rgb { 100 100 100 }
-	color_ui = rgb { 100 100 100 }
+	color = rgb { 188 134 18 }
+	color_ui = rgb { 188 134 18 }
 }
 ENG = {
 	color = rgb { 0 74 127 }
@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 234 206 68  }
 }
 FRA = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -30,8 +30,8 @@ BEL = { color 	 = rgb { 193 171 8  }
 HOL = {	color = rgb { 255 106 0 }
 		color_ui = rgb { 255 106 0 }
 }
-CZE = {	color = rgb { 54 167 156 }
-		color_ui = rgb { 54 167 156 }
+CZE = {	color = rgb { 54 167 196 }
+		color_ui = rgb { 54 167 196 }
 }
 POL = {
 	color = rgb { 194 198 216 }
@@ -134,8 +134,8 @@ BOL = {
 	color_ui = rgb { 76 145 63 }
 }
 BRA = {
-	color = rgb { 63 119 86 }
-	color_ui = rgb { 63 119 86 }
+	color = rgb { 232 158 158 }
+	color_ui = rgb { 232 158 158 }
 }
 CAN = {
 	color = rgb { 119 48 39 }
@@ -230,8 +230,8 @@ SAU = {
 	color_ui = rgb { 222 247 198 }
 }
 SIA = {
-	color = rgb { 47 105 230 }
-	color_ui = rgb { 47 105 230 }
+	color = rgb { 157 165 185 }
+	color_ui = rgb { 157 165 185 }
 }
 SIK = {
 	color = rgb { 71 190 152 }
@@ -554,4 +554,20 @@ KAZ = {
 BLA = {
     color = rgb { 221 19 123 }
     color_ui = rgb { 221 19 123 }
+}
+SAA = {
+    color = rgb { 0 32 159 }
+    color_ui = rgb { 0 32 159 }
+}
+GRA = {
+    color = rgb { 142 0 0 }
+    color_ui = rgb { 142 0 0 }
+}
+BAH = {
+    color = rgb { 80 90 196 }
+    color_ui = rgb { 80 90 196 }
+}
+SAO = {
+    color = rgb { 148 148 148 }
+    color_ui = rgb { 148 148 148 }
 }

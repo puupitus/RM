@@ -2,11 +2,14 @@
 state={
 	id=280
 	name="STATE_280"
-	
+
 	state_category = pastoral
 
 	history={
-		owner = BRA
+		owner = GRA
+		victory_points = {
+			2142 3
+		}
 		buildings = {
 			infrastructure = 1
 
@@ -16,8 +19,8 @@ state={
 	}
 
 	provinces={
-		2142 2147 2204 8175 11010 12939 
+		2142 2147 2204 8175 11010 12939
 	}
-	manpower=120000
+	manpower=1120000
 	buildings_max_level_factor=1.000
 }
