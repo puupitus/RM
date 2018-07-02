@@ -1,10 +1,7 @@
-﻿capital = 219
+capital = 234
 
-oob = "SOV"
-set_cosmetic_tag = SOV_com
-create_faction = "Fourth International"
-add_to_faction = FRA
-add_to_faction = ITA
+oob = "BLA"
+set_cosmetic_tag = BLA_com
 ########## PUPPETS #################
 
 

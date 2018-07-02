@@ -2,41 +2,57 @@ KOR_jap = {
 	color = rgb { 215 215 215 }
 	color_ui = rgb { 215 215 215 }
 }
-EST_com = {
-	color = rgb { 105 32 38 }
-	color_ui = rgb { 105 32 38 }
+EST_soc = {
+	color = rgb { 181 57 57 }
+	color_ui = rgb { 181 57 57 }
 }
-FIN_com = {
-	color = rgb { 155 30 40 }
-	color_ui = rgb { 155 30 40 }
+FIN_soc = {
+	color = rgb { 246 26 26 }
+	color_ui = rgb { 246 26 26 }
 }
 GER_com = {
 	color = rgb { 135 25 35 }
 	color_ui = rgb { 135 25 35 }
 }
-HUN_com = {
-	color = rgb { 165 40 55 }
-	color_ui = rgb { 155 30 40 }
+SOV_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+BLR_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+BLA_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+DDR_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 LAT_com = {
-	color = rgb { 115 20 30 }
-	color_ui = rgb { 115 20 30 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 LIT_com = {
-	color = rgb { 140 30 15 }
-	color_ui = rgb { 140 30 15 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 GEO_com = {
-	color = rgb { 145 35 20 }
-	color_ui = rgb { 145 35 20 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KAZ_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+UKR_com = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 AFN_fra = {
 	color = rgb { 0 58 193 }
 	color_ui = rgb { 0 58 193 }
-}
-AFN_com = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
 }
 AOF_com = {
 	color = rgb { 189 18 32 }
@@ -85,10 +101,6 @@ ANG_por = {
 MZB_por = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 39 116 70 }
-}
-SYR_com = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
 }
 LBA_soc = {
 	color = rgb { 244 49 49 }

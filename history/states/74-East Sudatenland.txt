@@ -9,7 +9,7 @@ state=
 	
 	history=
 	{
-		owner = POL
+		owner = CZE
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1

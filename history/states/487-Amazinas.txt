@@ -2,12 +2,15 @@
 state={
 	id=487
 	name="STATE_487"
-	manpower = 334500
+	manpower = 1534500
 
 	state_category = pastoral
 
 	history={
-		owner = PRU
+		owner = BOL
+		victory_points = {
+			10924 5
+		}
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

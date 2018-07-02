@@ -1,7 +1,7 @@
-﻿
+﻿capital = 401
 
-oob = ""
-
+oob = "DDR"
+set_cosmetic_tag = DDR_com
 ########## PUPPETS #################
 
 

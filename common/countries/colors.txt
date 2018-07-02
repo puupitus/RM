@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 0 74 127 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 38 127 0 }
+	color_ui = rgb { 38 127 0 }
 }
 SWE = {
 	color = rgb { 234 206 68 }
@@ -30,12 +30,12 @@ BEL = { color 	 = rgb { 193 171 8  }
 HOL = {	color = rgb { 255 106 0 }
 		color_ui = rgb { 255 106 0 }
 }
-CZE = {	color = rgb { 8 99 156 }
-		color_ui = rgb { 8 99 156 }
+CZE = {	color = rgb { 194 198 215 }
+		color_ui = rgb { 194 198 215 }
 }
 POL = {
-	color = rgb { 194 198 215 }
-	color_ui = rgb { 194 198 215 }
+	color = rgb { 194 198 216 }
+	color_ui = rgb { 194 198 216 }
 }
 AUS = {
 	color = rgb { 165 165 165 }
@@ -419,8 +419,8 @@ MNT = {
 }
 
 BLR = {
-	color = rgb { 180 220 190 }
-	color_ui = rgb { 180 220 190 }
+	color = rgb { 255 173 173 }
+	color_ui = rgb { 255 173 173 }
 }
 MAN = {
 	color = rgb { 255 197 0 }
@@ -460,8 +460,8 @@ WGR = {
     color_ui = rgb { 225 255 255 }
 }
 DDR = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 255 206 0 }
+    color_ui = rgb { 255 206 0 }
 }
 KOR = {
 	color = rgb { 0 115 207 }
@@ -547,4 +547,12 @@ BWA = {
 AFN = {
     color = rgb { 0 58 193 }
     color_ui = rgb { 0 58 193 }
+}
+KAZ = {
+    color = rgb { 0 154 182 }
+    color_ui = rgb { 0 154 182 }
+}
+BLA = {
+    color = rgb { 221 19 123 }
+    color_ui = rgb { 221 19 123 }
 }

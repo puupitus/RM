@@ -1,7 +1,7 @@
-﻿
+﻿capital = 206
 
-oob = ""
-
+oob = "BLR"
+set_cosmetic_tag = BLR_com
 ########## PUPPETS #################
 
 
