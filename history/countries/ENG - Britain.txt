@@ -1,9 +1,7 @@
 ﻿capital = 126
 
 oob = "ENG"
-create_faction = "Socialist Entente"
-add_to_faction = FRA
-add_to_faction = ITA
+
 ########## PUPPETS #################
 
 

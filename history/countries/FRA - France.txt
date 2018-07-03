@@ -1,6 +1,8 @@
 ﻿capital = 16
 
 oob = "FRA"
+create_faction = "Socialist Entente"
+add_to_faction = ENG
 
 ########## PUPPETS #################
 

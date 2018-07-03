@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = AFN
+		owner = GUI
 		buildings = {
 			infrastructure = 2
 			12885 = {

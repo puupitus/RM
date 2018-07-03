@@ -4,8 +4,8 @@ oob = "AFN"
 
 create_faction = "League of Nations"
 add_to_faction = LUX
-add_to_faction = SWI
 add_to_faction = SAA
+add_to_faction = BEL
 ########## PUPPETS #################
 
 

@@ -3,11 +3,11 @@ state={
 	id=121
 	name="STATE_121" # Lothian
 	manpower = 1431624
-	
+
 	state_category = city
 
 	history={
-		owner = ENG
+		owner = SCO
 		victory_points = { 9392 10 }
 		victory_points = { 6300 1 }
 		buildings = {
@@ -23,6 +23,6 @@ state={
 	}
 
 	provinces={
-		159 6300 9314 9383 9392 11378 
+		159 6300 9314 9383 9392 11378
 	}
 }

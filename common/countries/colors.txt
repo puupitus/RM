@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 234 206 68  }
 }
 FRA = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 57 113 228 }
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -30,8 +30,8 @@ BEL = { color 	 = rgb { 193 171 8  }
 HOL = {	color = rgb { 255 106 0 }
 		color_ui = rgb { 255 106 0 }
 }
-CZE = {	color = rgb { 54 167 196 }
-		color_ui = rgb { 54 167 196 }
+CZE = {	color = rgb { 57 113 228 }
+		color_ui = rgb { 57 113 228 }
 }
 POL = {
 	color = rgb { 194 198 216 }
@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 224 5 5 }
 }
 TUR = {
-	color = rgb { 234 15 15 }
-	color_ui = rgb { 234 15 15 }
+	color = rgb { 214 10 10 }
+	color_ui = rgb { 214 10 10 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -222,8 +222,8 @@ PRU = {
 	color_ui = rgb { 235 16 35 }
 }
 SAF = {
-	color = rgb { 203 138 74 }
-	color_ui = rgb { 203 138 74 }
+	color = rgb { 168 132 99 }
+	color_ui = rgb { 168 132 99 }
 }
 SAU = {
 	color = rgb { 171 190 152 }
@@ -313,8 +313,8 @@ PRC = {
 }
 
 GXC = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 71 113 97 }
+	color = rgb { 221 110 129 }
+	color_ui = rgb { 221 110 129 }
 }
 
 SHX = {
@@ -323,8 +323,8 @@ SHX = {
 }
 
 XSM = {
-	color = rgb { 105 90 132 }
-	color_ui = rgb { 105 90 132 }
+	color = rgb { 165 165 255 }
+	color_ui = rgb { 165 165 255 }
 }
 
 LBA = {
@@ -562,4 +562,36 @@ BAH = {
 SAO = {
     color = rgb { 148 148 148 }
     color_ui = rgb { 148 148 148 }
+}
+NEW = {
+    color = rgb { 0 155 71 }
+    color_ui = rgb { 0 155 71 }
+}
+QUE = {
+    color = rgb { 0 31 150 }
+    color_ui = rgb { 0 31 150 }
+}
+GUI = {
+    color = rgb { 20 175 81 }
+    color_ui = rgb { 20 175 81 }
+}
+SUD = {
+    color = rgb { 0 146 63 }
+    color_ui = rgb { 0 146 63 }
+}
+TRA = {
+    color = rgb { 203 138 74 }
+    color_ui = rgb { 203 138 74 }
+}
+NAT = {
+    color = rgb { 201 175 151 }
+    color_ui = rgb { 201 175 151 }
+}
+SCO = {
+    color = rgb { 0 101 190 }
+    color_ui = rgb { 0 101 190 }
+}
+WAL = {
+    color = rgb { 112 193 136 }
+    color_ui = rgb { 112 193 136 }
 }
