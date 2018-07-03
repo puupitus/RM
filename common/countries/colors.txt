@@ -30,8 +30,8 @@ BEL = { color 	 = rgb { 193 171 8  }
 HOL = {	color = rgb { 255 106 0 }
 		color_ui = rgb { 255 106 0 }
 }
-CZE = {	color = rgb { 57 113 228 }
-		color_ui = rgb { 57 113 228 }
+CZE = {	color = rgb { 0 58 193 }
+		color_ui = rgb { 0 58 193 }
 }
 POL = {
 	color = rgb { 194 198 216 }
@@ -536,8 +536,8 @@ BWA = {
     color_ui = rgb { 65 158 224 }
 }
 AFN = {
-    color = rgb { 0 58 193 }
-    color_ui = rgb { 0 58 193 }
+    color = rgb { 57 113 228 }
+    color_ui = rgb { 57 113 228 }
 }
 KAZ = {
     color = rgb { 0 154 182 }

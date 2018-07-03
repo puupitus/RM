@@ -1,6 +1,9 @@
 ﻿capital = 10
 oob = "CZE"
-
+create_faction = "League of Nations"
+add_to_faction = LUX
+add_to_faction = SAA
+add_to_faction = BEL
 ########## PUPPETS #################
 
 
