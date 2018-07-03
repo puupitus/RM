@@ -115,8 +115,6 @@ ZIM = "countries/Zimbabwe.txt"
 ###### RED MENACE MODDED ######
 
 
-AEF = "countries/Equatorial Africa.txt"
-AOF = "countries/French West Africa.txt"
 BWA = "countries/British West Africa.txt"
 AFN = "countries/French North Africa.txt"
 BLA = "countries/Black Sea.txt"

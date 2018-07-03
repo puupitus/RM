@@ -58,33 +58,17 @@ AFN_fra = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 57 113 228 }
 }
-AOF_fra = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 57 113 228 }
-}
-AEF_fra = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 57 113 228 }
-}
 VIN_fra = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 57 113 228 }
-}
-FRA_com = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
-}
-FRA_soc = {
-	color = rgb { 189 18 32 }
-	color_ui = rgb { 189 18 32 }
 }
 COG_bel = {
 	color = rgb { 170 160 8 }
 	color_ui = rgb { 170 160 8 }
 }
 KEN_bri = {
-	color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 170 10 10 }
 }
 ZIM_bri = {
 	color = rgb { 0 74 127 }
@@ -99,20 +83,24 @@ ETH_ita = {
 	color_ui = rgb { 67 127 63 }
 }
 BWA_bri = {
-    color = rgb { 0 74 127 }
-    color_ui = rgb { 0 74 127 }
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 201 56 93 }
+}
+AST_bri = {
+    color = rgb { 201 56 93 }
+    color_ui = rgb { 201 56 93 }
 }
 RAJ_bri = {
-	color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 170 10 10 }
 }
 CAN_bri = {
-	color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 }
+	color = rgb { 119 48 39 }
+	color_ui = rgb { 119 48 39 }
 }
 SAF_bri = {
-	color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 170 10 10 }
 }
 ANG_por = {
 	color = rgb { 39 116 70 }
@@ -127,6 +115,6 @@ LBA_soc = {
 	color_ui = rgb { 0 206 41 }
 }
 MAL_bri = {
-	color = rgb { 252 209 22 }
-	color_ui = rgb { 252 209 22 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 170 10 10 }
 }

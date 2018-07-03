@@ -6,7 +6,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = AEF
+		owner = AFN
 		buildings = {
 			infrastructure = 1
 

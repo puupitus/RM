@@ -1,10 +1,9 @@
 ﻿capital = 126
 
 oob = "ENG"
-create_faction = "League of Nations"
-add_to_faction = LUX
-add_to_faction = SWI
-add_to_faction = SAA
+create_faction = "Socialist Entente"
+add_to_faction = FRA
+add_to_faction = ITA
 ########## PUPPETS #################
 
 
@@ -64,7 +63,7 @@ set_politics = {
 			popularity = 12.5
 		}
 	}
-	ruling_party = conservatism
+	ruling_party = socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
