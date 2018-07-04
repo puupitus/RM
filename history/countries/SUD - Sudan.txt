@@ -1,7 +1,7 @@
 capital = 551
 
 oob = "SUD"
-set_cosmetic_tag = SUD_bri
+
 ########## PUPPETS #################
 
 
