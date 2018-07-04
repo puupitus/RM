@@ -328,8 +328,8 @@ XSM = {
 }
 
 LBA = {
-	color = rgb { 47 137 43 }
-	color_ui = rgb { 47 137 43 }
+	color = rgb { 67 157 63 }
+	color_ui = rgb { 67 157 63 }
 }
 
 EGY = {
@@ -455,8 +455,8 @@ PAK = {
 	color_ui = rgb { 21 38 66 }
 }
 WGR = {
-    color = rgb { 218 18 26 } # The colors are set to be more are less what we are used to
-    color_ui = rgb { 218 18 26 }
+    color = rgb { 228 28 36 } # The colors are set to be more are less what we are used to
+    color_ui = rgb { 228 28 36 }
 }
 DDR = {
     color = rgb { 255 206 0 }
