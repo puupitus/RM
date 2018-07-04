@@ -12,6 +12,9 @@ state={
 
 	history={
 		owner = BOT
+		victory_points = {
+			8214 3
+		}
 		buildings = {
 			infrastructure = 1
 		}

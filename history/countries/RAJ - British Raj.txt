@@ -1,8 +1,8 @@
 ﻿capital = 439
 
 oob = "RAJ"
-create_faction = "Imperial Commonwealth"
-set_cosmetic_tag = RAJ_bri
+create_faction = "Imperial Coalition"
+
 ########## PUPPETS #################
 
 

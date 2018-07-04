@@ -1,7 +1,7 @@
 ﻿capital = 12
 
 oob = "LAT"
-set_cosmetic_tag = LAT_com
+
 ########## PUPPETS #################
 
 

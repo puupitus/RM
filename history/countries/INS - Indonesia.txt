@@ -1,7 +1,7 @@
 ﻿capital = 335
 
 oob = "INS"
-set_cosmetic_tag = INS_hol
+
 ########## PUPPETS #################
 
 

@@ -74,17 +74,9 @@ ZIM_bri = {
 	color = rgb { 0 74 127 }
 	color_ui = rgb { 0 74 127 }
 }
-INS_hol = {
-	color = rgb { 229 131 66 }
-	color_ui = rgb { 229 131 66 }
-}
 ETH_ita = {
 	color = rgb { 67 127 63 }
 	color_ui = rgb { 67 127 63 }
-}
-BWA_bri = {
-    color = rgb { 201 56 93 }
-    color_ui = rgb { 201 56 93 }
 }
 AST_bri = {
     color = rgb { 201 56 93 }

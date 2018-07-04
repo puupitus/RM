@@ -1,7 +1,7 @@
 ﻿capital = 448
 
 oob = "LBA"
-set_cosmetic_tag = LBA_ita
+
 ########## PUPPETS #################
 
 

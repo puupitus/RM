@@ -1,7 +1,7 @@
 ﻿capital = 336
 
 oob = "MAL"
-set_cosmetic_tag = MAL_bri
+
 ########## PUPPETS #################
 
 
