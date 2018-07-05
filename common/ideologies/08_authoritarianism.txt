@@ -18,7 +18,7 @@ authoritarianism = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 192 192 192 }
+		color = { 120 120 120 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0

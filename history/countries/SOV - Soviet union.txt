@@ -64,7 +64,7 @@ set_politics = {
 		fascism = {
 			popularity = 10
 		}
-		ultranationalism = {
+		nationalism = {
 			popularity = 10
 		}
 	}
@@ -128,7 +128,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = ultranationalist
+	ideology = nationalist
 	traits = { rm_default }
 }
 

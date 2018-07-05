@@ -63,11 +63,11 @@ set_politics = {
 		fascism = {
 			popularity = 10
 		}
-		ultranationalism = {
+		nationalism = {
 			popularity = 10
 		}
 	}
-	ruling_party = ultranationalism
+	ruling_party = nationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -127,7 +127,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = ultranationalist
+	ideology = nationalist
 	traits = { rm_default }
 }
 

@@ -1,11 +1,11 @@
 ideologies = {
 
 
-ultranationalism = {
+nationalism = {
 
 		types = {
 
-      ultranationalist = {
+      nationalist = {
 			}
 
 		}

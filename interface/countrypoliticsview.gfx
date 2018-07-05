@@ -586,8 +586,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/fascism_group.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_ultranationalism_group"
-		texturefile = "gfx/interface/ideologies/ultranationalism_group.dds"
+		name = "GFX_ideology_nationalism_group"
+		texturefile = "gfx/interface/ideologies/nationalism_group.dds"
 	}
 
 }
