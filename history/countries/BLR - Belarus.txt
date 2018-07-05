@@ -1,4 +1,3 @@
-﻿capital = 206
 
 oob = "BLR"
 
@@ -63,7 +62,7 @@ set_politics = {
 		fascism = {
 			popularity = 10
 		}
-		nationalism = {
+		ultranationalism = {
 			popularity = 10
 		}
 	}
@@ -127,7 +126,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = nationalist
+	ideology = ultranationalist
 	traits = { rm_default }
 }
 
