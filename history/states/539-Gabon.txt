@@ -11,10 +11,10 @@ state={
 	history={
 		owner = FCG
 		victory_points = {
-			8193 3
+			8193 5
 		}
 		victory_points = {
-			5139 5
+			5139 3
 		}
 		buildings = {
 			infrastructure = 3

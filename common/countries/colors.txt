@@ -134,8 +134,8 @@ BOL = {
 	color_ui = rgb { 76 145 63 }
 }
 BRA = {
-	color = rgb { 232 158 158 }
-	color_ui = rgb { 232 158 158 }
+	color = rgb { 0 177 239 }
+	color_ui = rgb { 0 177 239 }
 }
 CAN = {
 	color = rgb { 119 48 39 }
@@ -186,8 +186,8 @@ JAP = {
 	color_ui = rgb { 215 215 215 }
 }
 LIB = {
-	color = rgb { 130 130 130 }
-	color_ui = rgb { 130 130 130 }
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 20 133 237 }
 }
 MEX = {
 	color = rgb { 104 152 83 }
@@ -254,8 +254,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 20 133 237 }
-	color_ui = rgb { 87 160 255 }
+	color = rgb { 130 130 130 }
+	color_ui = rgb { 130 130 130 }
 }
 MON = {
 	color = rgb { 35 35 121 }
@@ -443,8 +443,8 @@ KEN = {
 	color_ui = rgb { 91 127 0 }
 }
 ZIM = {
-	color = rgb { 234 210 25 }
-	color_ui = rgb { 234 210 25 }
+	color = rgb { 195 210 175 }
+	color_ui = rgb { 195 210 175 }
 }
 BOT = {
 	color = rgb { 117 170 219 }
@@ -547,20 +547,20 @@ SAA = {
     color_ui = rgb { 0 32 159 }
 }
 GRA = {
-    color = rgb { 142 0 0 }
-    color_ui = rgb { 142 0 0 }
+    color = rgb { 182 20 20 }
+    color_ui = rgb { 182 20 20 }
 }
 BAH = {
-    color = rgb { 80 90 196 }
-    color_ui = rgb { 80 90 196 }
+    color = rgb { 0 183 67 }
+    color_ui = rgb { 0 183 67 }
 }
 SAO = {
-    color = rgb { 148 148 148 }
-    color_ui = rgb { 148 148 148 }
+    color = rgb { 196 186 0 }
+    color_ui = rgb { 196 186 0 }
 }
 NEW = {
-    color = rgb { 0 155 71 }
-    color_ui = rgb { 0 155 71 }
+    color = rgb { 180 205 171 }
+    color_ui = rgb { 180 205 171 }
 }
 QUE = {
     color = rgb { 0 31 150 }
