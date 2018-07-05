@@ -3,12 +3,12 @@ state=
 	id=177
 	name="STATE_177"
 	manpower = 365500
-	
+
 	state_category = rural
-	
+
 	history=
 	{
-		owner = SPR
+		owner = SPS
 		buildings = {
 			infrastructure = 6
 			air_base = 1

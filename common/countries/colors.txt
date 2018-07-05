@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 160 160 160 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 201 56 93 }
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 255 0 0 }
 }
 SOV = {
 	color = rgb { 125 13 24 }
@@ -54,8 +54,8 @@ LAT = {
 	color_ui = rgb { 159 44 54 }
 }
 SPR = {
-	color = rgb { 252 222 2 }
-	color_ui = rgb { 252 222 2 }
+	color = rgb { 198 0 29 }
+	color_ui = rgb { 198 0 29 }
 }
 ITA = {
 	color = rgb { 0 206 41 }
@@ -585,4 +585,40 @@ NAT = {
 SGR = {
     color = rgb { 45 196 196 }
     color_ui = rgb { 45 196 196 }
+}
+FLA = {
+    color = rgb { 254 234 40 }
+    color_ui = rgb { 254 234 40 }
+}
+FCG = {
+    color = rgb { 251 222 74 }
+    color_ui = rgb { 251 222 74 }
+}
+UOA = {
+    color = rgb { 255 15 25 }
+    color_ui = rgb { 255 15 25 }
+}
+CAL = {
+    color = rgb { 240 205 213 }
+    color_ui = rgb { 240 205 213 }
+}
+TEX = {
+    color = rgb { 192 3 44 }
+    color_ui = rgb { 192 3 44 }
+}
+RGR = {
+    color = rgb { 153 153 153 }
+    color_ui = rgb { 153 153 153 }
+}
+SON = {
+    color = rgb { 224 0 31 }
+    color_ui = rgb { 224 0 31 }
+}
+DES = {
+    color = rgb { 0 45 106 }
+    color_ui = rgb { 0 45 106 }
+}
+SPS = {
+    color = rgb { 252 222 2 }
+    color_ui = rgb { 252 222 2 }
 }

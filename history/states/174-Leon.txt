@@ -3,13 +3,13 @@ state={
 	id=174
 	name="STATE_174"
 	manpower = 1566041
-	
+
 	state_category = large_town
 
 	history={
-		owner = SPR
+		owner = SPS
 		victory_points = {
-			11707 1 
+			11707 1
 		}
 		buildings = {
 			infrastructure = 6
