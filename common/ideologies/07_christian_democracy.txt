@@ -1,11 +1,12 @@
 ideologies = {
 
-	conservatism = {
+
+christian_democracy = {
 
 		types = {
 
-      conservative = {
-      }
+      christian_democrat = {
+			}
 
 		}
 
@@ -17,7 +18,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 0 148 255 }
+		color = { 255 106 0 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -27,6 +28,7 @@ ideologies = {
     can_puppet = yes
     can_declare_war_on_same_ideology = yes
 		can_join_factions = no
+
 		}
 
 		modifiers = {
@@ -36,7 +38,6 @@ ideologies = {
 
 		ai_neutral = yes
 		can_be_boosted = no
-
 		}
 
 	}

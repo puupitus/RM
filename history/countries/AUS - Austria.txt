@@ -1,8 +1,7 @@
 ﻿capital = 4
 
 oob = "AUS"
-create_faction = "New World Order"
-set_cosmetic_tag = AUS_ger
+
 ########## PUPPETS #################
 
 
@@ -37,32 +36,38 @@ set_politics = {
 
 		parties = {
 
-		communism = {
-			popularity = 12.5
+		anarchism = {
+      popularity = 10
+    }
+    communism = {
+			popularity = 10
 		}
 		socialism = {
-			popularity = 12.5
+			popularity = 10
 		}
 		social_democracy = {
-			popularity = 12.5
+			popularity = 10
 		}
 		liberalism = {
-			popularity = 12.5
+			popularity = 10
 		}
-		conservatism = {
-			popularity = 12.5
+		christian_democracy = {
+      popularity = 10
+    }
+    conservatism = {
+			popularity = 10
 		}
 		authoritarianism = {
-			popularity = 12.5
+			popularity = 10
 		}
 		fascism = {
-			popularity = 12.5
+			popularity = 10
 		}
-		nazism = {
-			popularity = 12.5
+		ultranationalism = {
+			popularity = 10
 		}
 	}
-	ruling_party = nazism
+	ruling_party = ultranationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -122,7 +127,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = nazi
+	ideology = ultranationalist
 	traits = { rm_default }
 }
 

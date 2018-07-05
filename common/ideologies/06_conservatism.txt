@@ -1,12 +1,12 @@
 ideologies = {
 
 
-socialism = {
+conservatism = {
 
 		types = {
 
-      socialist = {
-			}
+      conservative = {
+      }
 
 		}
 
@@ -18,7 +18,7 @@ socialism = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 247 0 0 }
+		color = { 0 148 255 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
