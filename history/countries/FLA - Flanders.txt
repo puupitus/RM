@@ -40,10 +40,10 @@ set_politics = {
 		anarchism = {
       popularity = 10
     }
-    communism = {
+    syndicalism = {
 			popularity = 10
 		}
-		socialism = {
+		communism = {
 			popularity = 10
 		}
 		social_democracy = {
@@ -86,7 +86,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = socialist
+	ideology = syndicalist
 	traits = { rm_default }
 }
 

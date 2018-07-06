@@ -626,3 +626,7 @@ NIG = {
     color = rgb { 67 157 63 }
     color_ui = rgb { 67 157 63 }
 }
+PAT = {
+    color = rgb { 107 219 120 }
+    color_ui = rgb { 107 219 120 }
+}

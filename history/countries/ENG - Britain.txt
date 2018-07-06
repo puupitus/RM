@@ -1,9 +1,7 @@
 ﻿capital = 126
 
 oob = "ENG"
-create_faction = "Socialist International"
-add_to_faction = AST
-add_to_faction = CAN
+
 ########## PUPPETS #################
 
 
@@ -41,10 +39,10 @@ set_politics = {
 		anarchism = {
       popularity = 10
     }
-    communism = {
+    syndicalism = {
 			popularity = 10
 		}
-		socialism = {
+		communism = {
 			popularity = 10
 		}
 		social_democracy = {
@@ -69,7 +67,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = socialism
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -87,7 +85,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = socialist
+	ideology = syndicalist
 	traits = { rm_default }
 }
 

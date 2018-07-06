@@ -33,7 +33,7 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_RM_DESC"
-			ideology = socialism
+			ideology = syndicalism
 			ideas = {	}
 			focuses = { }
 		}
