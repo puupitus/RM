@@ -1,7 +1,7 @@
 ﻿capital = 681
 
 oob = "SAF"
-set_cosmetic_tag = SAF_soc
+
 ########## PUPPETS #################
 
 
@@ -67,7 +67,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = social_democracy
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

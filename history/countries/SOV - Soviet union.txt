@@ -3,6 +3,20 @@
 oob = "SOV"
 
 create_faction = "Comintern"
+add_to_faction = FIN
+add_to_faction = EST
+add_to_faction = LAT
+add_to_faction = LIT
+add_to_faction = UKR
+add_to_faction = GER
+add_to_faction = BLA
+add_to_faction = DDR
+add_to_faction = GEO
+add_to_faction = KAZ
+add_to_faction = MON
+
+
+
 ########## PUPPETS #################
 
 
