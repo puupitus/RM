@@ -1,7 +1,7 @@
 ﻿capital = 439
 
 oob = "RAJ"
-create_faction = "New World Order"
+create_faction = "Imperial Commonwealth"
 
 ########## PUPPETS #################
 

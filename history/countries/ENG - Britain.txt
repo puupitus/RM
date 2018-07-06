@@ -1,7 +1,9 @@
 ﻿capital = 126
 
 oob = "ENG"
-
+create_faction = "Socialist International"
+add_to_faction = AST
+add_to_faction = CAN
 ########## PUPPETS #################
 
 

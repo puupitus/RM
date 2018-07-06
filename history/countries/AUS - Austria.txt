@@ -1,7 +1,7 @@
 ﻿capital = 4
 
 oob = "AUS"
-
+create_faction = "New World Order"
 ########## PUPPETS #################
 
 

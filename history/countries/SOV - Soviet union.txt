@@ -2,7 +2,7 @@
 
 oob = "SOV"
 
-create_faction = "Fourth International"
+create_faction = "Comintern"
 ########## PUPPETS #################
 
 
