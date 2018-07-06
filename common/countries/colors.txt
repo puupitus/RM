@@ -58,8 +58,8 @@ SPR = {
 	color_ui = rgb { 198 0 29 }
 }
 ITA = {
-	color = rgb { 0 206 41 }
-	color_ui = rgb { 0 206 41 }
+	color = rgb { 107 197 103 }
+	color_ui = rgb { 107 197 103 }
 }
 ROM = {
 	color = rgb { 215 196 72 }
@@ -114,8 +114,8 @@ HUN = {
 	color_ui = rgb { 91 127 0 }
 }
 AFG = {
-	color = rgb { 10 61 10 }
-	color_ui = rgb { 10 61 10 }
+	color = rgb { 45 95 45 }
+	color_ui = rgb { 45 95 45 }
 }
 ARG = {
 	color = rgb { 117 174 224 }
@@ -166,8 +166,8 @@ ELS = {
 	color_ui = rgb { 198 169 248 }
 }
 ETH = {
-	color = rgb { 67 127 63 }
-	color_ui = rgb { 67 127 63 }
+	color = rgb { 0 206 41 }
+	color_ui = rgb { 0 206 41 }
 }
 GUA = {
 	color = rgb { 72 49 112 }
@@ -186,8 +186,8 @@ JAP = {
 	color_ui = rgb { 215 215 215 }
 }
 LIB = {
-	color = rgb { 20 133 237 }
-	color_ui = rgb { 20 133 237 }
+	color = rgb { 40 153 247 }
+	color_ui = rgb { 40 153 247 }
 }
 MEX = {
 	color = rgb { 104 152 83 }
@@ -254,8 +254,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 130 130 130 }
-	color_ui = rgb { 130 130 130 }
+	color = rgb { 20 133 237 }
+	color_ui = rgb { 20 133 237 }
 }
 MON = {
 	color = rgb { 35 35 121 }
@@ -353,8 +353,8 @@ JOR = {
 }
 
 SYR = {
-	color = rgb { 63 43 43 }
-	color_ui = rgb { 63 43 43 }
+	color = rgb { 95 75 75 }
+	color_ui = rgb { 95 75 75 }
 }
 
 SER = {
@@ -439,8 +439,8 @@ MZB = {
 	color_ui = rgb { 50 120 55 }
 }
 KEN = {
-	color = rgb { 91 127 0 }
-	color_ui = rgb { 91 127 0 }
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
 }
 ZIM = {
 	color = rgb { 195 210 175 }
@@ -582,10 +582,6 @@ NAT = {
     color = rgb { 201 175 151 }
     color_ui = rgb { 201 175 151 }
 }
-SGR = {
-    color = rgb { 45 196 196 }
-    color_ui = rgb { 45 196 196 }
-}
 FLA = {
     color = rgb { 254 234 40 }
     color_ui = rgb { 254 234 40 }
@@ -621,4 +617,12 @@ DES = {
 SPS = {
     color = rgb { 252 222 2 }
     color_ui = rgb { 252 222 2 }
+}
+TGN = {
+    color = rgb { 91 127 0 }
+    color_ui = rgb { 91 127 0 }
+}
+NIG = {
+    color = rgb { 67 157 63 }
+    color_ui = rgb { 67 157 63 }
 }
