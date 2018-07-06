@@ -1,7 +1,7 @@
 capital = 502
 
 oob = "SAO"
-
+set_cosmetic_tag = SAO_syn
 ########## PUPPETS #################
 
 

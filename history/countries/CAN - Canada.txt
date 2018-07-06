@@ -1,7 +1,7 @@
 ﻿capital = 473
 
 oob = "CAN"
-
+set_cosmetic_tag = CAN_syn
 ########## PUPPETS #################
 
 

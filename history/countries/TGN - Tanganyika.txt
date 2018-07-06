@@ -1,7 +1,7 @@
 capital = 546
 
 oob = "TGN"
-
+set_cosmetic_tag = TGN_bri
 
 ########## PUPPETS #################
 

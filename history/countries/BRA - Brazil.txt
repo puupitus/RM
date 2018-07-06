@@ -1,7 +1,7 @@
 ﻿capital = 500
 
 oob = "BRA"
-
+set_cosmetic_tag = BRA_aut
 ########## PUPPETS #################
 
 

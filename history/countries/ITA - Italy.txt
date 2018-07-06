@@ -1,7 +1,7 @@
 ﻿capital = 2
 
 oob = "ITA"
-
+set_cosmetic_tag = ITA_ana
 ########## PUPPETS #################
 
 

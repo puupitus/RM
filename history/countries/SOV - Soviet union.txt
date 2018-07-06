@@ -1,7 +1,7 @@
 ﻿capital = 219
 
 oob = "SOV"
-
+set_cosmetic_tag = SOV_com
 create_faction = "Comintern"
 add_to_faction = FIN
 add_to_faction = EST

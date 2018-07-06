@@ -1,7 +1,7 @@
 ﻿capital = 547
 
 oob = "KEN"
-
+set_cosmetic_tag = KEN_bri
 ########## PUPPETS #################
 
 

@@ -467,8 +467,8 @@ KOR = {
 	color_ui = rgb { 0 115 207 }
 }
 ISR = {
-	color = rgb { 144 206 206 }
-	color_ui = rgb { 144 206 206 }
+	color = rgb { 211 183 0 }
+	color_ui = rgb { 211 183 0 }
 }
 D01 = {
 	color = rgb { 200 100 31 }
@@ -563,8 +563,8 @@ NEW = {
     color_ui = rgb { 180 205 171 }
 }
 QUE = {
-    color = rgb { 0 31 150 }
-    color_ui = rgb { 0 31 150 }
+    color = rgb { 33 99 209 }
+    color_ui = rgb { 33 99 209 }
 }
 GUI = {
     color = rgb { 20 175 81 }

@@ -1,7 +1,7 @@
 ﻿capital = 681
 
 oob = "SAF"
-
+set_cosmetic_tag = SAF_syn
 ########## PUPPETS #################
 
 

@@ -12,6 +12,10 @@ add_to_faction = SON
 add_to_faction = LIB
 add_to_faction = BOT
 add_to_faction = ZIM
+add_to_faction = AFN
+add_to_faction = VIN
+add_to_faction = SYR
+add_to_faction = GUI
 ########## PUPPETS #################
 
 

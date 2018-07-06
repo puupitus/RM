@@ -1,7 +1,7 @@
 ﻿capital = 548
 
 oob = "ISR"
-
+set_cosmetic_tag = ISR_jud
 ########## PUPPETS #################
 
 

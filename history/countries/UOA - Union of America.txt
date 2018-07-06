@@ -2,7 +2,7 @@ capital = 395
 
 
 oob = "UOA"
-
+set_cosmetic_tag = UOA_syn
 ########## PUPPETS #################
 
 

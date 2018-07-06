@@ -2,7 +2,7 @@ capital = 539
 
 
 oob = "FCG"
-
+set_cosmetic_tag = FCG_com
 ########## PUPPETS #################
 
 

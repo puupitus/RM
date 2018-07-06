@@ -1,7 +1,7 @@
 capital = 276
 
 oob = "QUE"
-
+set_cosmetic_tag = QUE_ult
 ########## PUPPETS #################
 
 
