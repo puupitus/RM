@@ -1,7 +1,7 @@
 ﻿capital = 303
 
 oob = "PRU"
-set_cosmetic_tag = PRU_bol
+
 ########## PUPPETS #################
 
 

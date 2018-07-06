@@ -1,7 +1,7 @@
 ﻿capital = 487
 
 oob = "BOL"
-set_cosmetic_tag = BOL_san
+
 ########## PUPPETS #################
 
 
