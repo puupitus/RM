@@ -562,10 +562,6 @@ NEW = {
     color = rgb { 180 205 171 }
     color_ui = rgb { 180 205 171 }
 }
-QUE = {
-    color = rgb { 33 99 209 }
-    color_ui = rgb { 33 99 209 }
-}
 GUI = {
     color = rgb { 20 175 81 }
     color_ui = rgb { 20 175 81 }
