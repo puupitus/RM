@@ -91,6 +91,20 @@ set_politics = {
 create_country_leader = {
   name = ""
 	picture = ""
+	ideology = anarchist
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
+	ideology = christian_democrat
+	traits = { rm_default }
+}
+
+create_country_leader = {
+  name = ""
+	picture = ""
 	ideology = communist
 	traits = { rm_default }
 }
