@@ -13,7 +13,7 @@ state={
 	}
 
 	history={
-		owner = UOA
+		owner = DES
 		buildings = {
 			infrastructure = 4
 		}

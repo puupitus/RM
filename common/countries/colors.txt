@@ -24,8 +24,8 @@ LUX = {
 	color = rgb { 65 175 179 }
 	color_ui = rgb { 85 228 233 }
 }
-BEL = { color 	 = rgb { 193 171 8  }
-		color_ui = rgb { 251 222 10 }
+BEL = { color 	 = rgb { 255 255 0 }
+		color_ui = rgb { 255 255 0 }
 	  }
 HOL = {	color = rgb { 255 106 0 }
 		color_ui = rgb { 255 106 0 }
@@ -154,8 +154,8 @@ COL = {
 	color_ui = rgb { 255 255 0 }
 }
 COS = {
-	color = rgb { 152 128 43 }
-	color_ui = rgb { 152 128 43 }
+	color = rgb { 137 197 227 }
+	color_ui = rgb { 137 197 227 }
 }
 ECU = {
 	color = rgb { 46 101 160 }
@@ -274,12 +274,12 @@ PAR = {
 	color_ui = rgb { 219 138 135 }
 }
 CUB = {
-	color = rgb { 137 197 227 }
-	color_ui = rgb { 137 197 227 }
+	color = rgb { 0 37 144 }
+	color_ui = rgb { 0 37 144 }
 }
 DOM = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 208 12 39 }
+	color_ui = rgb { 208 12 39 }
 }
 HAI = {
 	color = rgb { 174 113 113 }
