@@ -6,8 +6,7 @@ create_faction = "New World Order"
 add_to_faction = USA
 add_to_faction = PHI
 add_to_faction = SAU
-add_to_faction = QUE
-add_to_faction = FLA
+add_to_faction = CRO
 ########## PUPPETS #################
 
 

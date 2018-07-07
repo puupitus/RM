@@ -6,6 +6,7 @@ create_faction = "Black International"
 add_to_faction = AST
 add_to_faction = ENG
 add_to_faction = SAF
+add_to_faction = UOA
 ########## PUPPETS #################
 
 

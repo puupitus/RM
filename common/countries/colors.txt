@@ -602,10 +602,6 @@ TEX = {
     color = rgb { 192 3 44 }
     color_ui = rgb { 192 3 44 }
 }
-RGR = {
-    color = rgb { 153 153 153 }
-    color_ui = rgb { 153 153 153 }
-}
 SON = {
     color = rgb { 224 0 31 }
     color_ui = rgb { 224 0 31 }
