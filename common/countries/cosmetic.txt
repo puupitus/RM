@@ -71,20 +71,16 @@ KEN_bri = {
 	color_ui = rgb { 175 0 30 }
 }
 AST_syn = {
-    color = rgb { 185 0 0 }
-    color_ui = rgb { 185 0 0 }
+    color = rgb { 210 0 0 }
+    color_ui = rgb { 210 0 0 }
 }
 RAJ_bri = {
 	color = rgb { 175 0 30 }
 	color_ui = rgb { 175 0 30 }
 }
-CAN_syn = {
-	color = rgb { 185 0 0 }
-	color_ui = rgb { 185 0 0 }
-}
 SAF_syn = {
-	color = rgb { 185 0 0 }
-	color_ui = rgb { 185 0 0 }
+	color = rgb { 210 0 0 }
+	color_ui = rgb { 210 0 0 }
 }
 ANG_por = {
 	color = rgb { 39 116 70 }
@@ -99,8 +95,8 @@ MAL_bri = {
 	color_ui = rgb { 175 0 30 }
 }
 AUS_gre = {
-	color = rgb { 175 175 175 }
-	color_ui = rgb { 175 175 175 }
+	color = rgb { 194 198 216 }
+	color_ui = rgb { 194 198 216 }
 }
 BAH_con = {
 	color = rgb { 156 218 236 }
@@ -109,10 +105,6 @@ BAH_con = {
 BRA_aut = {
 	color = rgb { 0 147 61 }
 	color_ui = rgb { 0 147 61 }
-}
-CRO_ill = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 197 92 106 }
 }
 FCG_com = {
 	color = rgb { 220 36 31 }
@@ -153,10 +145,6 @@ PAT_ana = {
 PRU_bol = {
 	color = rgb { 235 16 35 }
 	color_ui = rgb { 235 16 35 }
-}
-QUE_ult = {
-	color = rgb { 33 99 209 }
-	color_ui = rgb { 33 99 209 }
 }
 SAO_syn = {
 	color = rgb { 229 198 15 }

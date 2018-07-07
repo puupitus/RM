@@ -2,7 +2,7 @@
 
 oob = "RAJ"
 set_cosmetic_tag = RAJ_bri
-create_faction = "Imperial Commonwealth"
+create_faction = "Monarchist League"
 add_to_faction = NEW
 add_to_faction = IRQ
 add_to_faction = NAT
@@ -70,7 +70,7 @@ set_politics = {
     conservatism = {
 			popularity = 10
 		}
-		authoritarianism = {
+		monarchism = {
 			popularity = 10
 		}
 		fascism = {
@@ -80,7 +80,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = authoritarianism
+	ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -126,7 +126,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = authoritarian
+	ideology = monarchist
 	traits = { rm_default }
 }
 

@@ -4,7 +4,6 @@ oob = "MEX"
 set_cosmetic_tag = MEX_ana
 create_faction = "Black International"
 add_to_faction = AST
-add_to_faction = CAN
 add_to_faction = ENG
 add_to_faction = SAF
 ########## PUPPETS #################
@@ -62,7 +61,7 @@ set_politics = {
     conservatism = {
 			popularity = 10
 		}
-		authoritarianism = {
+		monarchism = {
 			popularity = 10
 		}
 		fascism = {
@@ -118,7 +117,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = authoritarian
+	ideology = monarchist
 	traits = { rm_default }
 }
 

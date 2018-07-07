@@ -45,7 +45,7 @@ bookmarks = {
 		}
 		"JAP"={
 			history = "JAP_RM_DESC"
-			ideology = authoritarianism
+			ideology = monarchism
 			ideas = {	}
 			focuses = { }
 		}

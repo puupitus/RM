@@ -58,7 +58,7 @@ set_politics = {
     conservatism = {
 			popularity = 10
 		}
-		authoritarianism = {
+		monarchism = {
 			popularity = 10
 		}
 		fascism = {
@@ -114,7 +114,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = authoritarian
+	ideology = monarchist
 	traits = { rm_default }
 }
 
