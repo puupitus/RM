@@ -38,8 +38,8 @@ POL = {
 	color_ui = rgb { 194 198 216 }
 }
 AUS = {
-	color = rgb { 194 198 216 }
-	color_ui = rgb { 194 198 216 }
+	color = rgb { 154 158 176 }
+	color_ui = rgb { 154 158 176 }
 }
 LIT = {
 	color = rgb { 219 219 119 }
@@ -70,8 +70,8 @@ YUG = {
 	color_ui = rgb { 0 36 137 }
 }
 SWI = {
-	color = rgb { 224 5 5 }
-	color_ui = rgb { 224 5 5 }
+	color = rgb { 0 156 0 }
+	color_ui = rgb { 0 156 0 }
 }
 TUR = {
 	color = rgb { 214 10 10 }
@@ -621,4 +621,8 @@ NIG = {
 PAT = {
     color = rgb { 107 219 120 }
     color_ui = rgb { 107 219 120 }
+}
+FIU = {
+    color = rgb { 229 198 22 }
+    color_ui = rgb { 229 198 22 }
 }

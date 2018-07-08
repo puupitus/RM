@@ -1,13 +1,6 @@
 ﻿capital = 4
 
 oob = "AUS"
-set_cosmetic_tag = AUS_gre
-create_faction = "New World Order"
-add_to_faction = USA
-add_to_faction = PHI
-add_to_faction = SAU
-add_to_faction = CRO
-add_to_faction = TRA
 ########## PUPPETS #################
 
 

@@ -5,7 +5,10 @@ state={
 	state_category = city
 
 	history={
-		owner = AUS
+		owner = FIU
+		victory_points = {
+			11564 3
+		}
 		add_core_of = ITA
 		add_core_of = YUG
 		buildings = {
@@ -20,7 +23,7 @@ state={
 	}
 
 	provinces={
-		599 6626 11595 11735
+		599 6626 11564 11595 11735
 	}
 	manpower=1063159
 	buildings_max_level_factor=1.000

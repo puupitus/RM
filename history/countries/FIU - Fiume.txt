@@ -1,7 +1,7 @@
-﻿capital = 41
+capital = 736
 
-oob = "SPR"
-set_cosmetic_tag = SPR_ana
+oob = "FIU"
+
 ########## PUPPETS #################
 
 
@@ -67,7 +67,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = anarchism
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
