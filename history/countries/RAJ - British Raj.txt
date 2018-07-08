@@ -4,7 +4,6 @@ oob = "RAJ"
 set_cosmetic_tag = RAJ_bri
 create_faction = "Monarchist League"
 add_to_faction = NEW
-add_to_faction = IRQ
 add_to_faction = NAT
 add_to_faction = YEM
 add_to_faction = OMA
@@ -12,8 +11,6 @@ add_to_faction = ETH
 add_to_faction = TGN
 add_to_faction = KEN
 add_to_faction = NIG
-add_to_faction = EGY
-add_to_faction = PER
 
 ########## PUPPETS #################
 

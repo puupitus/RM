@@ -7,6 +7,7 @@ add_to_faction = USA
 add_to_faction = PHI
 add_to_faction = SAU
 add_to_faction = CRO
+add_to_faction = TRA
 ########## PUPPETS #################
 
 

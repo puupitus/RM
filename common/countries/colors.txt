@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 160 160 160 }
 }
 ENG = {
-	color = rgb { 210 0 0 }
-	color_ui = rgb { 210 0 0 }
+	color = rgb { 170 0 0 }
+	color_ui = rgb { 170 0 0 }
 }
 SOV = {
 	color = rgb { 115 0 0 }
@@ -591,16 +591,16 @@ UOA = {
     color_ui = rgb { 255 15 25 }
 }
 CAL = {
-    color = rgb { 240 205 213 }
-    color_ui = rgb { 240 205 213 }
+    color = rgb { 210 175 183 }
+    color_ui = rgb { 210 175 183 }
 }
 TEX = {
     color = rgb { 192 3 44 }
     color_ui = rgb { 192 3 44 }
 }
 SON = {
-    color = rgb { 224 0 31 }
-    color_ui = rgb { 224 0 31 }
+    color = rgb { 234 220 211 }
+    color_ui = rgb { 234 220 211 }
 }
 DES = {
     color = rgb { 0 45 106 }

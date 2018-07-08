@@ -71,8 +71,8 @@ KEN_bri = {
 	color_ui = rgb { 175 0 30 }
 }
 AST_syn = {
-    color = rgb { 210 0 0 }
-    color_ui = rgb { 210 0 0 }
+    color = rgb { 190 0 0 }
+    color_ui = rgb { 190 0 0 }
 }
 RAJ_bri = {
 	color = rgb { 175 0 30 }
@@ -117,6 +117,10 @@ ISR_jud = {
 ITA_ana = {
 	color = rgb { 90 90 90 }
 	color_ui = rgb { 90 90 90 }
+}
+ITA_syn = {
+	color = rgb { 215 5 5 }
+	color_ui = rgb { 215 5 5 }
 }
 MAL_bri = {
 	color = rgb { 175 0 30 }

@@ -1,8 +1,8 @@
 ﻿l_english:
  ###################################################
  AFG_anarchism_ADJ:0 "Afghan"
- AFG_anarchism_DEF:0 "The Anarchist Federation of Afghanistan"
- AFG_anarchism:0 "Anarchist Federation of Afghanistan"
+ AFG_anarchism_DEF:0 "The Workers' Federation of Afghanistan"
+ AFG_anarchism:0 "Workers' Federation of Afghanistan"
  AFG_monarchism_ADJ:0 "Afghan"
  AFG_monarchism_DEF:0 "The Kingdom of Afghanistan"
  AFG_monarchism:0 "Kingdom of Afghanistan"
@@ -33,8 +33,8 @@
  ###################################################
  ###################################################
  AFN_anarchism_ADJ:0 "Algerian"
- AFN_anarchism_DEF:0 "The Anarchist Federation of Algeria"
- AFN_anarchism:0 "Anarchist Federation of Algeria"
+ AFN_anarchism_DEF:0 "The Workers' Federation of Algeria"
+ AFN_anarchism:0 "Workers' Federation of Algeria"
  AFN_monarchism_ADJ:0 "Algerian"
  AFN_monarchism_DEF:0 "The People's Democratic Republic of Algeria"
  AFN_monarchism:0 "People's Democratic Republic of Algeria"
@@ -65,8 +65,8 @@
  ###################################################
  ###################################################
  ALB_anarchism_ADJ:0 "Albanian"
- ALB_anarchism_DEF:0 "The Anarchist Federation of Albania"
- ALB_anarchism:0 "Anarchist Federation of Albania"
+ ALB_anarchism_DEF:0 "The Workers' Federation of Albania"
+ ALB_anarchism:0 "Workers' Federation of Albania"
  ALB_monarchism_ADJ:0 "Albanian"
  ALB_monarchism_DEF:0 "The Kingdom of Albania"
  ALB_monarchism:0 "Kingdom of Albania"
@@ -97,8 +97,8 @@
  ###################################################
  ###################################################
  ANG_anarchism_ADJ:0 "Angolan"
- ANG_anarchism_DEF:0 "The Anarchist Federation of Angola"
- ANG_anarchism:0 "Anarchist Federation of Angola"
+ ANG_anarchism_DEF:0 "The Workers' Federation of Angola"
+ ANG_anarchism:0 "Workers' Federation of Angola"
  ANG_monarchism_ADJ:0 "Angolan"
  ANG_monarchism_DEF:0 "The Republic of Angola"
  ANG_monarchism:0 "Republic of Angola"
@@ -138,8 +138,8 @@
  ARG_christian_democracy_DEF:0 "The State of Buenos Aires"
  ARG_christian_democracy:0 "State of Buenos Aires"
  ARG_communism_ADJ:0 "Argentine"
- ARG_communism_DEF:0 "The State of Buenos Aires"
- ARG_communism:0 "State of Buenos Aires"
+ ARG_communism_DEF:0 "The Commune of Buenos Aires"
+ ARG_communism:0 "Commune of Buenos Aires"
  ARG_conservatism_ADJ:0 "Argentine"
  ARG_conservatism_DEF:0 "The State of Buenos Aires"
  ARG_conservatism:0 "State of Buenos Aires"
@@ -161,8 +161,8 @@
  ###################################################
  ###################################################
  AST_anarchism_ADJ:0 "Australasian"
- AST_anarchism_DEF:0 "The Anarchist Federation of Australasia"
- AST_anarchism:0 "Anarchist Federation of Australasia"
+ AST_anarchism_DEF:0 "The Workers' Federation of Australasia"
+ AST_anarchism:0 "Workers' Federation of Australasia"
  AST_monarchism_ADJ:0 "Australasian"
  AST_monarchism_DEF:0 "The Federation of Australasia"
  AST_monarchism:0 "Federation of Australasia"
@@ -185,16 +185,16 @@
  AST_social_democracy_DEF:0 "The Federation of Australasia"
  AST_social_democracy:0 "Federation of Australasia"
  AST_syndicalism_ADJ:0 "Australasian"
- AST_syndicalism_DEF:0 "The Syndicate of Australasia"
- AST_syndicalism:0 "Syndicate of Australasia"
+ AST_syndicalism_DEF:0 "The Australasian Syndicates"
+ AST_syndicalism:0 "Australasian Syndicates"
  AST_ultranationalism_ADJ:0 "Australasian"
  AST_ultranationalism_DEF:0 "The Federation of Australasia"
  AST_ultranationalism:0 "Federation of Australasia"
  ###################################################
  ###################################################
  AUS_anarchism_ADJ:0 "Austrian"
- AUS_anarchism_DEF:0 "The Anarchist Federation of Austria"
- AUS_anarchism:0 "Anarchist Federation of Austria"
+ AUS_anarchism_DEF:0 "The Workers' Federation of Austria"
+ AUS_anarchism:0 "Workers' Federation of Austria"
  AUS_monarchism_ADJ:0 "Austrian"
  AUS_monarchism_DEF:0 "The Republic of Austria"
  AUS_monarchism:0 "Republic of Austria"
@@ -234,8 +234,8 @@
  BAH_christian_democracy_DEF:0 "The State of Ceará"
  BAH_christian_democracy:0 "State of Ceará"
  BAH_communism_ADJ:0 "Brazilian"
- BAH_communism_DEF:0 "The State of Ceará"
- BAH_communism:0 "State of Ceará"
+ BAH_communism_DEF:0 "The Commune of Ceará"
+ BAH_communism:0 "Commune of Ceará"
  BAH_conservatism_ADJ:0 "Brazilian"
  BAH_conservatism_DEF:0 "The State of Ceará"
  BAH_conservatism:0 "State of Ceará"
@@ -257,8 +257,8 @@
  ###################################################
  ###################################################
  BEL_anarchism_ADJ:0 "Wallonian"
- BEL_anarchism_DEF:0 "The Anarchist Federation of Wallonia"
- BEL_anarchism:0 "Anarchist Federation of Wallonia"
+ BEL_anarchism_DEF:0 "The Workers' Federation of Wallonia"
+ BEL_anarchism:0 "Workers' Federation of Wallonia"
  BEL_monarchism_ADJ:0 "Wallonian"
  BEL_monarchism_DEF:0 "The Republic of Wallonia"
  BEL_monarchism:0 "Republic of Wallonia"
@@ -289,8 +289,8 @@
  ###################################################
  ###################################################
  BHU_anarchism_ADJ:0 "Bhutanese"
- BHU_anarchism_DEF:0 "The Anarchist Federation of Bhutan"
- BHU_anarchism:0 "Anarchist Federation of Bhutan"
+ BHU_anarchism_DEF:0 "The Workers' Federation of Bhutan"
+ BHU_anarchism:0 "Workers' Federation of Bhutan"
  BHU_monarchism_ADJ:0 "Bhutanese"
  BHU_monarchism_DEF:0 "The Kingdom of Bhutan"
  BHU_monarchism:0 "Kingdom of Bhutan"
@@ -321,8 +321,8 @@
  ###################################################
  ###################################################
  BLA_anarchism_ADJ:0 "Cossack"
- BLA_anarchism_DEF:0 "The Don-Kuban Anarchist Federation"
- BLA_anarchism:0 "Don-Kuban Anarchist Federation"
+ BLA_anarchism_DEF:0 "The Don-Kuban Workers' Federation"
+ BLA_anarchism:0 "Don-Kuban Workers' Federation"
  BLA_monarchism_ADJ:0 "Cossack"
  BLA_monarchism_DEF:0 "The Don-Kuban Republic"
  BLA_monarchism:0 "Don-Kuban Republic"
@@ -353,8 +353,8 @@
  ###################################################
  ###################################################
  BOL_anarchism_ADJ:0 "Bolivian"
- BOL_anarchism_DEF:0 "The Anarchist Federation of Santa Cruz"
- BOL_anarchism:0 "Anarchist Federation of Santa Cruz"
+ BOL_anarchism_DEF:0 "The Workers' Federation of Santa Cruz"
+ BOL_anarchism:0 "Workers' Federation of Santa Cruz"
  BOL_monarchism_ADJ:0 "Bolivian"
  BOL_monarchism_DEF:0 "The Plurinational State of Santa Cruz"
  BOL_monarchism:0 "Plurinational State of Santa Cruz"
@@ -385,8 +385,8 @@
  ###################################################
  ###################################################
  BOT_anarchism_ADJ:0 "Botswanan"
- BOT_anarchism_DEF:0 "The Anarchist Federation of Botswana"
- BOT_anarchism:0 "Anarchist Federation of Botswana"
+ BOT_anarchism_DEF:0 "The Workers' Federation of Botswana"
+ BOT_anarchism:0 "Workers' Federation of Botswana"
  BOT_monarchism_ADJ:0 "Botswanan"
  BOT_monarchism_DEF:0 "The Republic of Botswana"
  BOT_monarchism:0 "Republic of Botswana"
@@ -426,8 +426,8 @@
  BRA_christian_democracy_DEF:0 "The State of Rio de Janeiro"
  BRA_christian_democracy:0 "State of Rio de Janeiro"
  BRA_communism_ADJ:0 "Brazilian"
- BRA_communism_DEF:0 "The State of Rio de Janeiro"
- BRA_communism:0 "State of Rio de Janeiro"
+ BRA_communism_DEF:0 "The Commune of Rio de Janeiro"
+ BRA_communism:0 "Commune of Rio de Janeiro"
  BRA_conservatism_ADJ:0 "Brazilian"
  BRA_conservatism_DEF:0 "The State of Rio de Janeiro"
  BRA_conservatism:0 "State of Rio de Janeiro"
@@ -449,8 +449,8 @@
  ###################################################
  ###################################################
  BUL_anarchism_ADJ:0 "Bulgarian"
- BUL_anarchism_DEF:0 "The Anarchist Federation of Bulgaria"
- BUL_anarchism:0 "Anarchist Federation of Bulgaria"
+ BUL_anarchism_DEF:0 "The Workers' Federation of Bulgaria"
+ BUL_anarchism:0 "Workers' Federation of Bulgaria"
  BUL_monarchism_ADJ:0 "Bulgarian"
  BUL_monarchism_DEF:0 "The Tsardom of Bulgaria"
  BUL_monarchism:0 "Tsardom of Bulgaria"
@@ -481,8 +481,8 @@
  ###################################################
  ###################################################
  CAL_anarchism_ADJ:0 "American"
- CAL_anarchism_DEF:0 "The Anarchist Federation of California"
- CAL_anarchism:0 "Anarchist Federation of California"
+ CAL_anarchism_DEF:0 "The Workers' Federation of California"
+ CAL_anarchism:0 "Workers' Federation of California"
  CAL_monarchism_ADJ:0 "American"
  CAL_monarchism_DEF:0 "The California Republic"
  CAL_monarchism:0 "California Republic"
@@ -513,8 +513,8 @@
  ###################################################
  ###################################################
  CAN_anarchism_ADJ:0 "Canadian"
- CAN_anarchism_DEF:0 "The Canadian Anarchist Federation"
- CAN_anarchism:0 "Canadian Anarchist Federation"
+ CAN_anarchism_DEF:0 "The Canadian Workers' Federation"
+ CAN_anarchism:0 "Canadian Workers' Federation"
  CAN_monarchism_ADJ:0 "Canadian"
  CAN_monarchism_DEF:0 "The Canadian Federation"
  CAN_monarchism:0 "Canadian Federation"
@@ -577,8 +577,8 @@
  ###################################################
  ###################################################
  CHL_anarchism_ADJ:0 "Chilean"
- CHL_anarchism_DEF:0 "The Anarchist Federation of Chile"
- CHL_anarchism:0 "Anarchist Federation of Chile"
+ CHL_anarchism_DEF:0 "The Workers' Federation of Chile"
+ CHL_anarchism:0 "Workers' Federation of Chile"
  CHL_monarchism_ADJ:0 "Chilean"
  CHL_monarchism_DEF:0 "The Republic of Chile"
  CHL_monarchism:0 "Republic of Chile"
@@ -609,8 +609,8 @@
  ###################################################
  ###################################################
  COG_anarchism_ADJ:0 "Congolese"
- COG_anarchism_DEF:0 "The Anarchist Federation of Zaire"
- COG_anarchism:0 "Anarchist Federation of Zaire"
+ COG_anarchism_DEF:0 "The Workers' Federation of Zaire"
+ COG_anarchism:0 "Workers' Federation of Zaire"
  COG_monarchism_ADJ:0 "Congolese"
  COG_monarchism_DEF:0 "The Republic of Zaire"
  COG_monarchism:0 "Republic of Zaire"
@@ -641,8 +641,8 @@
  ###################################################
  ###################################################
  COL_anarchism_ADJ:0 "Colombian"
- COL_anarchism_DEF:0 "The Anarchist Federation of Colombia"
- COL_anarchism:0 "Anarchist Federation of Colombia"
+ COL_anarchism_DEF:0 "The Workers' Federation of Colombia"
+ COL_anarchism:0 "Workers' Federation of Colombia"
  COL_monarchism_ADJ:0 "Colombian"
  COL_monarchism_DEF:0 "The Republic of Colombia"
  COL_monarchism:0 "Republic of Colombia"
@@ -673,8 +673,8 @@
  ###################################################
  ###################################################
  COS_anarchism_ADJ:0 "Central American"
- COS_anarchism_DEF:0 "The Anarchist Federation of Central America"
- COS_anarchism:0 "Anarchist Federation of Central America"
+ COS_anarchism_DEF:0 "The Workers' Federation of Central America"
+ COS_anarchism:0 "Workers' Federation of Central America"
  COS_monarchism_ADJ:0 "Central American"
  COS_monarchism_DEF:0 "The Federation of Central America"
  COS_monarchism:0 "Federation of Central America"
@@ -705,8 +705,8 @@
  ###################################################
  ###################################################
  CRO_anarchism_ADJ:0 "Croatian"
- CRO_anarchism_DEF:0 "The Anarchist Federation of Croatia"
- CRO_anarchism:0 "Anarchist Federation of Croatia"
+ CRO_anarchism_DEF:0 "The Workers' Federation of Croatia"
+ CRO_anarchism:0 "Workers' Federation of Croatia"
  CRO_monarchism_ADJ:0 "Croatian"
  CRO_monarchism_DEF:0 "The Republic of Croatia"
  CRO_monarchism:0 "Republic of Croatia"
@@ -737,8 +737,8 @@
  ###################################################
  ###################################################
  CUB_anarchism_ADJ:0 "Cuban"
- CUB_anarchism_DEF:0 "The Anarchist Federation of Cuba"
- CUB_anarchism:0 "Anarchist Federation of Cuba"
+ CUB_anarchism_DEF:0 "The Workers' Federation of Cuba"
+ CUB_anarchism:0 "Workers' Federation of Cuba"
  CUB_monarchism_ADJ:0 "Cuban"
  CUB_monarchism_DEF:0 "The Republic of Cuba"
  CUB_monarchism:0 "Republic of Cuba"
@@ -769,8 +769,8 @@
  ###################################################
  ###################################################
  CZE_anarchism_ADJ:0 "West Slavic"
- CZE_anarchism_DEF:0 "The Anarchist Federation of Zapadoslavia"
- CZE_anarchism:0 "Anarchist Federation of Zapadoslavia"
+ CZE_anarchism_DEF:0 "The Workers' Federation of Zapadoslavia"
+ CZE_anarchism:0 "Workers' Federation of Zapadoslavia"
  CZE_monarchism_ADJ:0 "West Slavic"
  CZE_monarchism_DEF:0 "The Federation of Zapadoslavia"
  CZE_monarchism:0 "Federation of Zapadoslavia"
@@ -833,8 +833,8 @@
  ###################################################
  ###################################################
  DEN_anarchism_ADJ:0 "Danish"
- DEN_anarchism_DEF:0 "The Anarchist Federation of Denmark"
- DEN_anarchism:0 "Anarchist Federation of Denmark"
+ DEN_anarchism_DEF:0 "The Workers' Federation of Denmark"
+ DEN_anarchism:0 "Workers' Federation of Denmark"
  DEN_monarchism_ADJ:0 "Danish"
  DEN_monarchism_DEF:0 "The Kingdom of Denmark"
  DEN_monarchism:0 "Kingdom of Denmark"
@@ -874,8 +874,8 @@
  DES_christian_democracy_DEF:0 "The State of Deseret"
  DES_christian_democracy:0 "State of Deseret"
  DES_communism_ADJ:0 "American"
- DES_communism_DEF:0 "The State of Deseret"
- DES_communism:0 "State of Deseret"
+ DES_communism_DEF:0 "The Commune of Deseret"
+ DES_communism:0 "Commune of Deseret"
  DES_conservatism_ADJ:0 "American"
  DES_conservatism_DEF:0 "The State of Deseret"
  DES_conservatism:0 "State of Deseret"
@@ -897,8 +897,8 @@
  ###################################################
  ###################################################
  DOM_anarchism_ADJ:0 "Dominican"
- DOM_anarchism_DEF:0 "The Dominican Anarchist Federation"
- DOM_anarchism:0 "Dominican Anarchist Federation"
+ DOM_anarchism_DEF:0 "The Dominican Workers' Federation"
+ DOM_anarchism:0 "Dominican Workers' Federation"
  DOM_monarchism_ADJ:0 "Dominican"
  DOM_monarchism_DEF:0 "The Dominican Republic"
  DOM_monarchism:0 "Dominican Republic"
@@ -929,8 +929,8 @@
  ###################################################
  ###################################################
  ECU_anarchism_ADJ:0 "Ecuadorian"
- ECU_anarchism_DEF:0 "The Anarchist Federation of Ecuador"
- ECU_anarchism:0 "Anarchist Federation of Ecuador"
+ ECU_anarchism_DEF:0 "The Workers' Federation of Ecuador"
+ ECU_anarchism:0 "Workers' Federation of Ecuador"
  ECU_monarchism_ADJ:0 "Ecuadorian"
  ECU_monarchism_DEF:0 "The Republic of Ecuador"
  ECU_monarchism:0 "Republic of Ecuador"
@@ -961,8 +961,8 @@
  ###################################################
  ###################################################
  EGY_anarchism_ADJ:0 "Egyptian"
- EGY_anarchism_DEF:0 "The Anarchist Federation of Egypt"
- EGY_anarchism:0 "Anarchist Federation of Egypt"
+ EGY_anarchism_DEF:0 "The Workers' Federation of Egypt"
+ EGY_anarchism:0 "Workers' Federation of Egypt"
  EGY_monarchism_ADJ:0 "Egyptian"
  EGY_monarchism_DEF:0 "The Kingdom of Egypt"
  EGY_monarchism:0 "Kingdom of Egypt"
@@ -993,40 +993,40 @@
  ###################################################
  ###################################################
  ENG_anarchism_ADJ:0 "British"
- ENG_anarchism_DEF:0 "The Anarchist Federation of Britain"
- ENG_anarchism:0 "Anarchist Federation of Britain"
+ ENG_anarchism_DEF:0 "The Workers' Federation of Britain"
+ ENG_anarchism:0 "Workers' Federation of Britain"
  ENG_monarchism_ADJ:0 "British"
- ENG_monarchism_DEF:0 "The Republic of Britain"
- ENG_monarchism:0 "Republic of Britain"
+ ENG_monarchism_DEF:0 "The United Republic"
+ ENG_monarchism:0 "United Republic"
  ENG_christian_democracy_ADJ:0 "British"
- ENG_christian_democracy_DEF:0 "The Republic of Britain"
- ENG_christian_democracy:0 "Republic of Britain"
+ ENG_christian_democracy_DEF:0 "The United Republic"
+ ENG_christian_democracy:0 "United Republic"
  ENG_communism_ADJ:0 "British"
- ENG_communism_DEF:0 "The People's Republic of Britain"
- ENG_communism:0 "People's Republic of Britain"
+ ENG_communism_DEF:0 "The People's United Republic"
+ ENG_communism:0 "People's United Republic"
  ENG_conservatism_ADJ:0 "British"
- ENG_conservatism_DEF:0 "The Republic of Britain"
- ENG_conservatism:0 "Republic of Britain"
+ ENG_conservatism_DEF:0 "The United Republic"
+ ENG_conservatism:0 "United Republic"
  ENG_fascism_ADJ:0 "British"
- ENG_fascism_DEF:0 "The Republic of Britain"
- ENG_fascism:0 "Republic of Britain"
+ ENG_fascism_DEF:0 "The United Republic"
+ ENG_fascism:0 "United Republic"
  ENG_liberalism_ADJ:0 "British"
- ENG_liberalism_DEF:0 "The Republic of Britain"
- ENG_liberalism:0 "Republic of Britain"
+ ENG_liberalism_DEF:0 "The United Republic"
+ ENG_liberalism:0 "United Republic"
  ENG_social_democracy_ADJ:0 "British"
- ENG_social_democracy_DEF:0 "The Republic of Britain"
- ENG_social_democracy:0 "Republic of Britain"
+ ENG_social_democracy_DEF:0 "The United Republic"
+ ENG_social_democracy:0 "United Republic"
  ENG_syndicalism_ADJ:0 "British"
  ENG_syndicalism_DEF:0 "The Union of Britain"
  ENG_syndicalism:0 "Union of Britain"
  ENG_ultranationalism_ADJ:0 "British"
- ENG_ultranationalism_DEF:0 "The Republic of Britain"
- ENG_ultranationalism:0 "Republic of Britain"
+ ENG_ultranationalism_DEF:0 "The United Republic"
+ ENG_ultranationalism:0 "United Republic"
  ###################################################
  ###################################################
  EST_anarchism_ADJ:0 "Estonian"
- EST_anarchism_DEF:0 "The Estonian Anarchist Federation"
- EST_anarchism:0 "Estonian Anarchist Federation"
+ EST_anarchism_DEF:0 "The Estonian Workers' Federation"
+ EST_anarchism:0 "Estonian Workers' Federation"
  EST_monarchism_ADJ:0 "Estonian"
  EST_monarchism_DEF:0 "The Republic of Estonia"
  EST_monarchism:0 "Republic of Estonia"
@@ -1057,8 +1057,8 @@
  ###################################################
  ###################################################
  ETH_anarchism_ADJ:0 "Ethiopian"
- ETH_anarchism_DEF:0 "The Anarchist Federation of Ethiopia"
- ETH_anarchism:0 "Anarchist Federation of Ethiopia"
+ ETH_anarchism_DEF:0 "The Workers' Federation of Ethiopia"
+ ETH_anarchism:0 "Workers' Federation of Ethiopia"
  ETH_monarchism_ADJ:0 "Ethiopian"
  ETH_monarchism_DEF:0 "The Ethiopian Empire"
  ETH_monarchism:0 "Ethiopian Empire"
@@ -1089,8 +1089,8 @@
  ###################################################
  ###################################################
  FCG_anarchism_ADJ:0 "Congolese"
- FCG_anarchism_DEF:0 "The Anarchist Federation of the Congo"
- FCG_anarchism:0 "Anarchist Federation of the Congo"
+ FCG_anarchism_DEF:0 "The Workers' Federation of the Congo"
+ FCG_anarchism:0 "Workers' Federation of the Congo"
  FCG_monarchism_ADJ:0 "Congolese"
  FCG_monarchism_DEF:0 "The Republic of the Congo"
  FCG_monarchism:0 "Republic of the Congo"
@@ -1121,8 +1121,8 @@
  ###################################################
  ###################################################
  FIN_anarchism_ADJ:0 "Finnish"
- FIN_anarchism_DEF:0 "The Anarchist Federation of Finland"
- FIN_anarchism:0 "Anarchist Federation of Finland"
+ FIN_anarchism_DEF:0 "The Workers' Federation of Finland"
+ FIN_anarchism:0 "Workers' Federation of Finland"
  FIN_monarchism_ADJ:0 "Finnish"
  FIN_monarchism_DEF:0 "The Republic of Finland"
  FIN_monarchism:0 "Republic of Finland"
@@ -1153,8 +1153,8 @@
  ###################################################
  ###################################################
  FLA_anarchism_ADJ:0 "Flemish"
- FLA_anarchism_DEF:0 "The Anarchist Federation of Flanders"
- FLA_anarchism:0 "Anarchist Federation of Flanders"
+ FLA_anarchism_DEF:0 "The Workers' Federation of Flanders"
+ FLA_anarchism:0 "Workers' Federation of Flanders"
  FLA_monarchism_ADJ:0 "Flemish"
  FLA_monarchism_DEF:0 "The State of Flanders"
  FLA_monarchism:0 "State of Flanders"
@@ -1162,8 +1162,8 @@
  FLA_christian_democracy_DEF:0 "The State of Flanders"
  FLA_christian_democracy:0 "State of Flanders"
  FLA_communism_ADJ:0 "Flemish"
- FLA_communism_DEF:0 "The State of Flanders"
- FLA_communism:0 "State of Flanders"
+ FLA_communism_DEF:0 "The Commune of Flanders"
+ FLA_communism:0 "Commune of Flanders"
  FLA_conservatism_ADJ:0 "Flemish"
  FLA_conservatism_DEF:0 "The State of Flanders"
  FLA_conservatism:0 "State of Flanders"
@@ -1185,8 +1185,8 @@
  ###################################################
  ###################################################
  FRA_anarchism_ADJ:0 "French"
- FRA_anarchism_DEF:0 "The Anarchist Federation of France"
- FRA_anarchism:0 "Anarchist Federation of France"
+ FRA_anarchism_DEF:0 "The Workers' Federation of France"
+ FRA_anarchism:0 "Workers' Federation of France"
  FRA_monarchism_ADJ:0 "French"
  FRA_monarchism_DEF:0 "The French Republic"
  FRA_monarchism:0 "French Republic"
@@ -1217,8 +1217,8 @@
  ###################################################
  ###################################################
  GEO_anarchism_ADJ:0 "Georgian"
- GEO_anarchism_DEF:0 "The Anarchist Federation of Georgia"
- GEO_anarchism:0 "Anarchist Federation of Georgia"
+ GEO_anarchism_DEF:0 "The Workers' Federation of Georgia"
+ GEO_anarchism:0 "Workers' Federation of Georgia"
  GEO_monarchism_ADJ:0 "Georgian"
  GEO_monarchism_DEF:0 "The Democratic Republic of Georgia"
  GEO_monarchism:0 "Democratic Republic of Georgia"
@@ -1249,8 +1249,8 @@
  ###################################################
  ###################################################
  GER_anarchism_ADJ:0 "German"
- GER_anarchism_DEF:0 "The Anarchist Federation of Germany"
- GER_anarchism:0 "Anarchist Federation of Germany"
+ GER_anarchism_DEF:0 "The Workers' Federation of Germany"
+ GER_anarchism:0 "Workers' Federation of Germany"
  GER_monarchism_ADJ:0 "German"
  GER_monarchism_DEF:0 "The German Empire"
  GER_monarchism:0 "German Empire"
@@ -1290,8 +1290,8 @@
  GRA_christian_democracy_DEF:0 "The State of Grão-Pará"
  GRA_christian_democracy:0 "State of Grão-Pará"
  GRA_communism_ADJ:0 "Brazilian"
- GRA_communism_DEF:0 "The State of Grão-Pará"
- GRA_communism:0 "State of Grão-Pará"
+ GRA_communism_DEF:0 "The Commune of Grão-Pará"
+ GRA_communism:0 "Commune of Grão-Pará"
  GRA_conservatism_ADJ:0 "Brazilian"
  GRA_conservatism_DEF:0 "The State of Grão-Pará"
  GRA_conservatism:0 "State of Grão-Pará"
@@ -1313,8 +1313,8 @@
  ###################################################
  ###################################################
  GRE_anarchism_ADJ:0 "Greek"
- GRE_anarchism_DEF:0 "The Anarchist Federation of Greece"
- GRE_anarchism:0 "Anarchist Federation of Greece"
+ GRE_anarchism_DEF:0 "The Workers' Federation of Greece"
+ GRE_anarchism:0 "Workers' Federation of Greece"
  GRE_monarchism_ADJ:0 "Greek"
  GRE_monarchism_DEF:0 "The Kingdom of Greece"
  GRE_monarchism:0 "Kingdom of Greece"
@@ -1345,8 +1345,8 @@
  ###################################################
  ###################################################
  GUI_anarchism_ADJ:0 "Guianan"
- GUI_anarchism_DEF:0 "The Anarchist Federation of Guiana"
- GUI_anarchism:0 "Anarchist Federation of Guiana"
+ GUI_anarchism_DEF:0 "The Workers' Federation of Guiana"
+ GUI_anarchism:0 "Workers' Federation of Guiana"
  GUI_monarchism_ADJ:0 "Guianan"
  GUI_monarchism_DEF:0 "The United Guianan States"
  GUI_monarchism:0 "United Guianan States"
@@ -1409,8 +1409,8 @@
  ###################################################
  ###################################################
  HOL_anarchism_ADJ:0 "Dutch"
- HOL_anarchism_DEF:0 "The Anarchist Federation of the Netherlands"
- HOL_anarchism:0 "Anarchist Federation of the Netherlands"
+ HOL_anarchism_DEF:0 "The Workers' Federation of the Netherlands"
+ HOL_anarchism:0 "Workers' Federation of the Netherlands"
  HOL_monarchism_ADJ:0 "Dutch"
  HOL_monarchism_DEF:0 "The Kingdom of the Netherlands"
  HOL_monarchism:0 "Kingdom of the Netherlands"
@@ -1441,8 +1441,8 @@
  ###################################################
  ###################################################
  HUN_anarchism_ADJ:0 "Hungarian"
- HUN_anarchism_DEF:0 "The Anarchist Federation of Hungary"
- HUN_anarchism:0 "Anarchist Federation of Hungary"
+ HUN_anarchism_DEF:0 "The Workers' Federation of Hungary"
+ HUN_anarchism:0 "Workers' Federation of Hungary"
  HUN_monarchism_ADJ:0 "Hungarian"
  HUN_monarchism_DEF:0 "The Kingdom of Hungary"
  HUN_monarchism:0 "Kingdom of Hungary"
@@ -1473,8 +1473,8 @@
  ###################################################
  ###################################################
  INS_anarchism_ADJ:0 "Indonesian"
- INS_anarchism_DEF:0 "The Anarchist Federation of Indonesia"
- INS_anarchism:0 "Anarchist Federation of Indonesia"
+ INS_anarchism_DEF:0 "The Workers' Federation of Indonesia"
+ INS_anarchism:0 "Workers' Federation of Indonesia"
  INS_monarchism_ADJ:0 "Indonesian"
  INS_monarchism_DEF:0 "The United States of Indonesia"
  INS_monarchism:0 "United States of Indonesia"
@@ -1505,8 +1505,8 @@
  ###################################################
  ###################################################
  IRE_anarchism_ADJ:0 "Irish"
- IRE_anarchism_DEF:0 "The Anarchist Federation of Ireland"
- IRE_anarchism:0 "Anarchist Federation of Ireland"
+ IRE_anarchism_DEF:0 "The Workers' Federation of Ireland"
+ IRE_anarchism:0 "Workers' Federation of Ireland"
  IRE_monarchism_ADJ:0 "Irish"
  IRE_monarchism_DEF:0 "The Republic of Ireland"
  IRE_monarchism:0 "Republic of Ireland"
@@ -1537,8 +1537,8 @@
  ###################################################
  ###################################################
  IRQ_anarchism_ADJ:0 "Iraqi"
- IRQ_anarchism_DEF:0 "The Anarchist Federation of Iraq"
- IRQ_anarchism:0 "Anarchist Federation of Iraq"
+ IRQ_anarchism_DEF:0 "The Workers' Federation of Iraq"
+ IRQ_anarchism:0 "Workers' Federation of Iraq"
  IRQ_monarchism_ADJ:0 "Iraqi"
  IRQ_monarchism_DEF:0 "The Hashemite Kingdom of Iraq"
  IRQ_monarchism:0 "Hashemite Kingdom of Iraq"
@@ -1569,8 +1569,8 @@
  ###################################################
  ###################################################
  ISR_anarchism_ADJ:0 "Ugandan"
- ISR_anarchism_DEF:0 "The Anarchist Federation of Uganda"
- ISR_anarchism:0 "Anarchist Federation of Uganda"
+ ISR_anarchism_DEF:0 "The Workers' Federation of Uganda"
+ ISR_anarchism:0 "Workers' Federation of Uganda"
  ISR_monarchism_ADJ:0 "Ugandan"
  ISR_monarchism_DEF:0 "The Republic of Uganda"
  ISR_monarchism:0 "Republic of Uganda"
@@ -1601,8 +1601,8 @@
  ###################################################
  ###################################################
  ITA_anarchism_ADJ:0 "Italian"
- ITA_anarchism_DEF:0 "The Italian Anarchist Federation"
- ITA_anarchism:0 "Italian Anarchist Federation"
+ ITA_anarchism_DEF:0 "The Italian Workers' Federation"
+ ITA_anarchism:0 "Italian Workers' Federation"
  ITA_monarchism_ADJ:0 "Italian"
  ITA_monarchism_DEF:0 "The Kingdom of Italy"
  ITA_monarchism:0 "Kingdom of Italy"
@@ -1633,8 +1633,8 @@
  ###################################################
  ###################################################
  JAP_anarchism_ADJ:0 "Japanese"
- JAP_anarchism_DEF:0 "The Anarchist Federation of Japan"
- JAP_anarchism:0 "Anarchist Federation of Japan"
+ JAP_anarchism_DEF:0 "The Workers' Federation of Japan"
+ JAP_anarchism:0 "Workers' Federation of Japan"
  JAP_monarchism_ADJ:0 "Japanese"
  JAP_monarchism_DEF:0 "The Empire of Japan"
  JAP_monarchism:0 "Empire of Japan"
@@ -1665,8 +1665,8 @@
  ###################################################
  ###################################################
  KAZ_anarchism_ADJ:0 "Turkmen"
- KAZ_anarchism_DEF:0 "The Anarchist Federation of Turkmenistan"
- KAZ_anarchism:0 "Anarchist Federation of Turkmenistan"
+ KAZ_anarchism_DEF:0 "The Workers' Federation of Turkmenistan"
+ KAZ_anarchism:0 "Workers' Federation of Turkmenistan"
  KAZ_monarchism_ADJ:0 "Turkmen"
  KAZ_monarchism_DEF:0 "The Turkmenistan"
  KAZ_monarchism:0 "Turkmenistan"
@@ -1697,8 +1697,8 @@
  ###################################################
  ###################################################
  KEN_anarchism_ADJ:0 "Kenyan"
- KEN_anarchism_DEF:0 "The Anarchist Federation of Kenya"
- KEN_anarchism:0 "Anarchist Federation of Kenya"
+ KEN_anarchism_DEF:0 "The Workers' Federation of Kenya"
+ KEN_anarchism:0 "Workers' Federation of Kenya"
  KEN_monarchism_ADJ:0 "Kenyan"
  KEN_monarchism_DEF:0 "The British East Africa"
  KEN_monarchism:0 "British East Africa"
@@ -1729,8 +1729,8 @@
  ###################################################
  ###################################################
  KOR_anarchism_ADJ:0 "Korean"
- KOR_anarchism_DEF:0 "The Korean Anarchist Federation"
- KOR_anarchism:0 "Korean Anarchist Federation"
+ KOR_anarchism_DEF:0 "The Korean Workers' Federation"
+ KOR_anarchism:0 "Korean Workers' Federation"
  KOR_monarchism_ADJ:0 "Korean"
  KOR_monarchism_DEF:0 "The Korean Empire"
  KOR_monarchism:0 "Korean Empire"
@@ -1761,8 +1761,8 @@
  ###################################################
  ###################################################
  LAT_anarchism_ADJ:0 "Latvian"
- LAT_anarchism_DEF:0 "The Latvian Anarchist Federation"
- LAT_anarchism:0 "Latvian Anarchist Federation"
+ LAT_anarchism_DEF:0 "The Latvian Workers' Federation"
+ LAT_anarchism:0 "Latvian Workers' Federation"
  LAT_monarchism_ADJ:0 "Latvian"
  LAT_monarchism_DEF:0 "The Republic of Latvia"
  LAT_monarchism:0 "Republic of Latvia"
@@ -1793,8 +1793,8 @@
  ###################################################
  ###################################################
  LIB_anarchism_ADJ:0 "Liberian"
- LIB_anarchism_DEF:0 "The Anarchist Federation of Liberia"
- LIB_anarchism:0 "Anarchist Federation of Liberia"
+ LIB_anarchism_DEF:0 "The Workers' Federation of Liberia"
+ LIB_anarchism:0 "Workers' Federation of Liberia"
  LIB_monarchism_ADJ:0 "Liberian"
  LIB_monarchism_DEF:0 "The Republic of Liberia"
  LIB_monarchism:0 "Republic of Liberia"
@@ -1825,8 +1825,8 @@
  ###################################################
  ###################################################
  LIT_anarchism_ADJ:0 "Lithuanian"
- LIT_anarchism_DEF:0 "The Lithuanian Anarchist Federation"
- LIT_anarchism:0 "Lithuanian Anarchist Federation"
+ LIT_anarchism_DEF:0 "The Lithuanian Workers' Federation"
+ LIT_anarchism:0 "Lithuanian Workers' Federation"
  LIT_monarchism_ADJ:0 "Lithuanian"
  LIT_monarchism_DEF:0 "The Kingdom of Lithuania"
  LIT_monarchism:0 "Kingdom of Lithuania"
@@ -1857,8 +1857,8 @@
  ###################################################
  ###################################################
  LUX_anarchism_ADJ:0 "Luxembourgish"
- LUX_anarchism_DEF:0 "The Anarchist Federation of Luxembourg"
- LUX_anarchism:0 "Anarchist Federation of Luxembourg"
+ LUX_anarchism_DEF:0 "The Workers' Federation of Luxembourg"
+ LUX_anarchism:0 "Workers' Federation of Luxembourg"
  LUX_monarchism_ADJ:0 "Luxembourgish"
  LUX_monarchism_DEF:0 "The Grand Duchy of Luxembourg"
  LUX_monarchism:0 "Grand Duchy of Luxembourg"
@@ -1889,8 +1889,8 @@
  ###################################################
  ###################################################
  MAL_anarchism_ADJ:0 "Malaysian"
- MAL_anarchism_DEF:0 "The Anarchist Federation of Malaya"
- MAL_anarchism:0 "Anarchist Federation of Malaya"
+ MAL_anarchism_DEF:0 "The Workers' Federation of Malaya"
+ MAL_anarchism:0 "Workers' Federation of Malaya"
  MAL_monarchism_ADJ:0 "Malaysian"
  MAL_monarchism_DEF:0 "The Federated Malay States"
  MAL_monarchism:0 "Federated Malay States"
@@ -1921,8 +1921,8 @@
  ###################################################
  ###################################################
  MAN_anarchism_ADJ:0 "Manchurian"
- MAN_anarchism_DEF:0 "The Anarchist Federation of Manchuria"
- MAN_anarchism:0 "Anarchist Federation of Manchuria"
+ MAN_anarchism_DEF:0 "The Workers' Federation of Manchuria"
+ MAN_anarchism:0 "Workers' Federation of Manchuria"
  MAN_monarchism_ADJ:0 "Manchurian"
  MAN_monarchism_DEF:0 "The Manchukuo"
  MAN_monarchism:0 "Manchukuo"
@@ -1953,8 +1953,8 @@
  ###################################################
  ###################################################
  MEN_anarchism_ADJ:0 "Mongolian"
- MEN_anarchism_DEF:0 "The Mongolian Anarchist Federation"
- MEN_anarchism:0 "Mongolian Anarchist Federation"
+ MEN_anarchism_DEF:0 "The Mongolian Workers' Federation"
+ MEN_anarchism:0 "Mongolian Workers' Federation"
  MEN_monarchism_ADJ:0 "Mongolian"
  MEN_monarchism_DEF:0 "The Mengjiang"
  MEN_monarchism:0 "Mengjiang"
@@ -2017,8 +2017,8 @@
  ###################################################
  ###################################################
  MON_anarchism_ADJ:0 "Buryat"
- MON_anarchism_DEF:0 "The Anarchist Federation of Buryatia"
- MON_anarchism:0 "Anarchist Federation of Buryatia"
+ MON_anarchism_DEF:0 "The Workers' Federation of Buryatia"
+ MON_anarchism:0 "Workers' Federation of Buryatia"
  MON_monarchism_ADJ:0 "Buryat"
  MON_monarchism_DEF:0 "The Republic of Buryatia"
  MON_monarchism:0 "Republic of Buryatia"
@@ -2049,8 +2049,8 @@
  ###################################################
  ###################################################
  MZB_anarchism_ADJ:0 "Mozambican"
- MZB_anarchism_DEF:0 "The Anarchist Federation of Mozambique"
- MZB_anarchism:0 "Anarchist Federation of Mozambique"
+ MZB_anarchism_DEF:0 "The Workers' Federation of Mozambique"
+ MZB_anarchism:0 "Workers' Federation of Mozambique"
  MZB_monarchism_ADJ:0 "Mozambican"
  MZB_monarchism_DEF:0 "The Republic of Mozambique"
  MZB_monarchism:0 "Republic of Mozambique"
@@ -2090,8 +2090,8 @@
  NAT_christian_democracy_DEF:0 "The Colony of Natal"
  NAT_christian_democracy:0 "Colony of Natal"
  NAT_communism_ADJ:0 "South African"
- NAT_communism_DEF:0 "The Colony of Natal"
- NAT_communism:0 "Colony of Natal"
+ NAT_communism_DEF:0 "The Commune of Natal"
+ NAT_communism:0 "Commune of Natal"
  NAT_conservatism_ADJ:0 "South African"
  NAT_conservatism_DEF:0 "The Colony of Natal"
  NAT_conservatism:0 "Colony of Natal"
@@ -2113,8 +2113,8 @@
  ###################################################
  ###################################################
  NEP_anarchism_ADJ:0 "Nepalese"
- NEP_anarchism_DEF:0 "The Anarchist Federation of Nepal"
- NEP_anarchism:0 "Anarchist Federation of Nepal"
+ NEP_anarchism_DEF:0 "The Workers' Federation of Nepal"
+ NEP_anarchism:0 "Workers' Federation of Nepal"
  NEP_monarchism_ADJ:0 "Nepalese"
  NEP_monarchism_DEF:0 "The Hindu Kingdom of Nepal"
  NEP_monarchism:0 "Hindu Kingdom of Nepal"
@@ -2145,8 +2145,8 @@
  ###################################################
  ###################################################
  NEW_anarchism_ADJ:0 "Canadian"
- NEW_anarchism_DEF:0 "The Anarchist Federation of Newfoundland"
- NEW_anarchism:0 "Anarchist Federation of Newfoundland"
+ NEW_anarchism_DEF:0 "The Workers' Federation of Newfoundland"
+ NEW_anarchism:0 "Workers' Federation of Newfoundland"
  NEW_monarchism_ADJ:0 "Canadian"
  NEW_monarchism_DEF:0 "The Dominion of Newfoundland"
  NEW_monarchism:0 "Dominion of Newfoundland"
@@ -2177,8 +2177,8 @@
  ###################################################
  ###################################################
  NIG_anarchism_ADJ:0 "Nigerian"
- NIG_anarchism_DEF:0 "The Anarchist Federation of Nigeria"
- NIG_anarchism:0 "Anarchist Federation of Nigeria"
+ NIG_anarchism_DEF:0 "The Workers' Federation of Nigeria"
+ NIG_anarchism:0 "Workers' Federation of Nigeria"
  NIG_monarchism_ADJ:0 "Nigerian"
  NIG_monarchism_DEF:0 "The Republic of Nigeria"
  NIG_monarchism:0 "Republic of Nigeria"
@@ -2209,8 +2209,8 @@
  ###################################################
  ###################################################
  NOR_anarchism_ADJ:0 "Norwegian"
- NOR_anarchism_DEF:0 "The Anarchist Federation of Norway"
- NOR_anarchism:0 "Anarchist Federation of Norway"
+ NOR_anarchism_DEF:0 "The Workers' Federation of Norway"
+ NOR_anarchism:0 "Workers' Federation of Norway"
  NOR_monarchism_ADJ:0 "Norwegian"
  NOR_monarchism_DEF:0 "The Kingdom of Norway"
  NOR_monarchism:0 "Kingdom of Norway"
@@ -2241,8 +2241,8 @@
  ###################################################
  ###################################################
  OMA_anarchism_ADJ:0 "Omani"
- OMA_anarchism_DEF:0 "The Anarchist Federation of Oman"
- OMA_anarchism:0 "Anarchist Federation of Oman"
+ OMA_anarchism_DEF:0 "The Workers' Federation of Oman"
+ OMA_anarchism:0 "Workers' Federation of Oman"
  OMA_monarchism_ADJ:0 "Omani"
  OMA_monarchism_DEF:0 "The Sultanate of Muscat and Oman"
  OMA_monarchism:0 "Sultanate of Muscat and Oman"
@@ -2273,8 +2273,8 @@
  ###################################################
  ###################################################
  PAR_anarchism_ADJ:0 "Paraguayan"
- PAR_anarchism_DEF:0 "The Anarchist Federation of Paraguay"
- PAR_anarchism:0 "Anarchist Federation of Paraguay"
+ PAR_anarchism_DEF:0 "The Workers' Federation of Paraguay"
+ PAR_anarchism:0 "Workers' Federation of Paraguay"
  PAR_monarchism_ADJ:0 "Paraguayan"
  PAR_monarchism_DEF:0 "The Republic of Paraguay"
  PAR_monarchism:0 "Republic of Paraguay"
@@ -2314,8 +2314,8 @@
  PAT_christian_democracy_DEF:0 "The State of Patagonia"
  PAT_christian_democracy:0 "State of Patagonia"
  PAT_communism_ADJ:0 "Patagonian"
- PAT_communism_DEF:0 "The State of Patagonia"
- PAT_communism:0 "State of Patagonia"
+ PAT_communism_DEF:0 "The Commune of Patagonia"
+ PAT_communism:0 "Commune of Patagonia"
  PAT_conservatism_ADJ:0 "Patagonian"
  PAT_conservatism_DEF:0 "The State of Patagonia"
  PAT_conservatism:0 "State of Patagonia"
@@ -2337,8 +2337,8 @@
  ###################################################
  ###################################################
  PER_anarchism_ADJ:0 "Iranian"
- PER_anarchism_DEF:0 "The Anarchist Federation of Iran"
- PER_anarchism:0 "Anarchist Federation of Iran"
+ PER_anarchism_DEF:0 "The Workers' Federation of Iran"
+ PER_anarchism:0 "Workers' Federation of Iran"
  PER_monarchism_ADJ:0 "Iranian"
  PER_monarchism_DEF:0 "The Imperial State of Iran"
  PER_monarchism:0 "Imperial State of Iran"
@@ -2369,8 +2369,8 @@
  ###################################################
  ###################################################
  PHI_anarchism_ADJ:0 "Filipino"
- PHI_anarchism_DEF:0 "The Anarchist Federation of the Philippines"
- PHI_anarchism:0 "Anarchist Federation of the Philippines"
+ PHI_anarchism_DEF:0 "The Workers' Federation of the Philippines"
+ PHI_anarchism:0 "Workers' Federation of the Philippines"
  PHI_monarchism_ADJ:0 "Filipino"
  PHI_monarchism_DEF:0 "The Republic of the Philippines"
  PHI_monarchism:0 "Republic of the Philippines"
@@ -2401,8 +2401,8 @@
  ###################################################
  ###################################################
  POR_anarchism_ADJ:0 "Portuguese"
- POR_anarchism_DEF:0 "The Anarchist Federation of Portugal"
- POR_anarchism:0 "Anarchist Federation of Portugal"
+ POR_anarchism_DEF:0 "The Workers' Federation of Portugal"
+ POR_anarchism:0 "Workers' Federation of Portugal"
  POR_monarchism_ADJ:0 "Portuguese"
  POR_monarchism_DEF:0 "The Kingdom of Portugal"
  POR_monarchism:0 "Kingdom of Portugal"
@@ -2465,8 +2465,8 @@
  ###################################################
  ###################################################
  PRU_anarchism_ADJ:0 "Peruvian"
- PRU_anarchism_DEF:0 "The Anarchist Federation of Peru"
- PRU_anarchism:0 "Anarchist Federation of Peru"
+ PRU_anarchism_DEF:0 "The Workers' Federation of Peru"
+ PRU_anarchism:0 "Workers' Federation of Peru"
  PRU_monarchism_ADJ:0 "Peruvian"
  PRU_monarchism_DEF:0 "The Republic of Peru"
  PRU_monarchism:0 "Republic of Peru"
@@ -2497,8 +2497,8 @@
  ###################################################
  ###################################################
  RAJ_anarchism_ADJ:0 "Indian"
- RAJ_anarchism_DEF:0 "The Anarchist Federation of India"
- RAJ_anarchism:0 "Anarchist Federation of India"
+ RAJ_anarchism_DEF:0 "The Workers' Federation of India"
+ RAJ_anarchism:0 "Workers' Federation of India"
  RAJ_monarchism_ADJ:0 "Indian"
  RAJ_monarchism_DEF:0 "The Indian Empire"
  RAJ_monarchism:0 "Indian Empire"
@@ -2529,8 +2529,8 @@
  ###################################################
  ###################################################
  ROM_anarchism_ADJ:0 "Romanian"
- ROM_anarchism_DEF:0 "The Anarchist Federation of Romania"
- ROM_anarchism:0 "Anarchist Federation of Romania"
+ ROM_anarchism_DEF:0 "The Workers' Federation of Romania"
+ ROM_anarchism:0 "Workers' Federation of Romania"
  ROM_monarchism_ADJ:0 "Romanian"
  ROM_monarchism_DEF:0 "The Kingdom of Romania"
  ROM_monarchism:0 "Kingdom of Romania"
@@ -2602,8 +2602,8 @@
  SAF_christian_democracy_DEF:0 "The Cape Colony"
  SAF_christian_democracy:0 "Cape Colony"
  SAF_communism_ADJ:0 "South African"
- SAF_communism_DEF:0 "The Cape Colony"
- SAF_communism:0 "Cape Colony"
+ SAF_communism_DEF:0 "The Cape Commune"
+ SAF_communism:0 "Cape Commune"
  SAF_conservatism_ADJ:0 "South African"
  SAF_conservatism_DEF:0 "The Cape Colony"
  SAF_conservatism:0 "Cape Colony"
@@ -2634,8 +2634,8 @@
  SAO_christian_democracy_DEF:0 "The State of Rio Grande do Sul"
  SAO_christian_democracy:0 "State of Rio Grande do Sul"
  SAO_communism_ADJ:0 "Brazilian"
- SAO_communism_DEF:0 "The State of Rio Grande do Sul"
- SAO_communism:0 "State of Rio Grande do Sul"
+ SAO_communism_DEF:0 "The Commune of Rio Grande do Sul"
+ SAO_communism:0 "Commune of Rio Grande do Sul"
  SAO_conservatism_ADJ:0 "Brazilian"
  SAO_conservatism_DEF:0 "The State of Rio Grande do Sul"
  SAO_conservatism:0 "State of Rio Grande do Sul"
@@ -2657,8 +2657,8 @@
  ###################################################
  ###################################################
  SAU_anarchism_ADJ:0 "Saudi Arabian"
- SAU_anarchism_DEF:0 "The Anarchist Federation of Saudi Arabia"
- SAU_anarchism:0 "Anarchist Federation of Saudi Arabia"
+ SAU_anarchism_DEF:0 "The Workers' Federation of Saudi Arabia"
+ SAU_anarchism:0 "Workers' Federation of Saudi Arabia"
  SAU_monarchism_ADJ:0 "Saudi Arabian"
  SAU_monarchism_DEF:0 "The Kingdom of Saudi Arabia"
  SAU_monarchism:0 "Kingdom of Saudi Arabia"
@@ -2689,8 +2689,8 @@
  ###################################################
  ###################################################
  SIA_anarchism_ADJ:0 "Siamese"
- SIA_anarchism_DEF:0 "The Anarchist Federation of Siam"
- SIA_anarchism:0 "Anarchist Federation of Siam"
+ SIA_anarchism_DEF:0 "The Workers' Federation of Siam"
+ SIA_anarchism:0 "Workers' Federation of Siam"
  SIA_monarchism_ADJ:0 "Siamese"
  SIA_monarchism_DEF:0 "The Kingdom of Siam"
  SIA_monarchism:0 "Kingdom of Siam"
@@ -2721,8 +2721,8 @@
  ###################################################
  ###################################################
  SON_anarchism_ADJ:0 "Mexican"
- SON_anarchism_DEF:0 "The Anarchist Federation of Sonora"
- SON_anarchism:0 "Anarchist Federation of Sonora"
+ SON_anarchism_DEF:0 "The Workers' Federation of Sonora"
+ SON_anarchism:0 "Workers' Federation of Sonora"
  SON_monarchism_ADJ:0 "Mexican"
  SON_monarchism_DEF:0 "The Mexican Empire"
  SON_monarchism:0 "Mexican Empire"
@@ -2753,8 +2753,8 @@
  ###################################################
  ###################################################
  SOV_anarchism_ADJ:0 "Russian"
- SOV_anarchism_DEF:0 "The Russian Anarchist Federation"
- SOV_anarchism:0 "Russian Anarchist Federation"
+ SOV_anarchism_DEF:0 "The Russian Workers' Federation"
+ SOV_anarchism:0 "Russian Workers' Federation"
  SOV_monarchism_ADJ:0 "Russian"
  SOV_monarchism_DEF:0 "The Russian State"
  SOV_monarchism:0 "Russian State"
@@ -2817,8 +2817,8 @@
  ###################################################
  ###################################################
  SPS_anarchism_ADJ:0 "Spanish"
- SPS_anarchism_DEF:0 "The Spanish Anarchist Federation"
- SPS_anarchism:0 "Spanish Anarchist Federation"
+ SPS_anarchism_DEF:0 "The Spanish Workers' Federation"
+ SPS_anarchism:0 "Spanish Workers' Federation"
  SPS_monarchism_ADJ:0 "Spanish"
  SPS_monarchism_DEF:0 "The Spanish State"
  SPS_monarchism:0 "Spanish State"
@@ -2826,8 +2826,8 @@
  SPS_christian_democracy_DEF:0 "The Spanish State"
  SPS_christian_democracy:0 "Spanish State"
  SPS_communism_ADJ:0 "Spanish"
- SPS_communism_DEF:0 "The Spanish Workers' State"
- SPS_communism:0 "Spanish Workers' State"
+ SPS_communism_DEF:0 "The Spanish Workers' Commune"
+ SPS_communism:0 "Spanish Workers' Commune"
  SPS_conservatism_ADJ:0 "Spanish"
  SPS_conservatism_DEF:0 "The Spanish State"
  SPS_conservatism:0 "Spanish State"
@@ -2849,8 +2849,8 @@
  ###################################################
  ###################################################
  SUD_anarchism_ADJ:0 "Sudanese"
- SUD_anarchism_DEF:0 "The Anarchist Federation of South Sudan"
- SUD_anarchism:0 "Anarchist Federation of South Sudan"
+ SUD_anarchism_DEF:0 "The Workers' Federation of South Sudan"
+ SUD_anarchism:0 "Workers' Federation of South Sudan"
  SUD_monarchism_ADJ:0 "Sudanese"
  SUD_monarchism_DEF:0 "The Republic of South Sudan"
  SUD_monarchism:0 "Republic of South Sudan"
@@ -2881,8 +2881,8 @@
  ###################################################
  ###################################################
  SWE_anarchism_ADJ:0 "Swedish"
- SWE_anarchism_DEF:0 "The Anarchist Federation of Sweden"
- SWE_anarchism:0 "Anarchist Federation of Sweden"
+ SWE_anarchism_DEF:0 "The Workers' Federation of Sweden"
+ SWE_anarchism:0 "Workers' Federation of Sweden"
  SWE_monarchism_ADJ:0 "Swedish"
  SWE_monarchism_DEF:0 "The Kingdom of Sweden"
  SWE_monarchism:0 "Kingdom of Sweden"
@@ -2913,8 +2913,8 @@
  ###################################################
  ###################################################
  SWI_anarchism_ADJ:0 "Swiss"
- SWI_anarchism_DEF:0 "The Anarchist Federation of Switzerland"
- SWI_anarchism:0 "Anarchist Federation of Switzerland"
+ SWI_anarchism_DEF:0 "The Workers' Federation of Switzerland"
+ SWI_anarchism:0 "Workers' Federation of Switzerland"
  SWI_monarchism_ADJ:0 "Swiss"
  SWI_monarchism_DEF:0 "The Helvetic Republic"
  SWI_monarchism:0 "Helvetic Republic"
@@ -2945,8 +2945,8 @@
  ###################################################
  ###################################################
  SYR_anarchism_ADJ:0 "Syrian"
- SYR_anarchism_DEF:0 "The Anarchist Federation of Syria"
- SYR_anarchism:0 "Anarchist Federation of Syria"
+ SYR_anarchism_DEF:0 "The Workers' Federation of Syria"
+ SYR_anarchism:0 "Workers' Federation of Syria"
  SYR_monarchism_ADJ:0 "Syrian"
  SYR_monarchism_DEF:0 "The Arab Kingdom of Syria"
  SYR_monarchism:0 "Arab Kingdom of Syria"
@@ -2977,8 +2977,8 @@
  ###################################################
  ###################################################
  TEX_anarchism_ADJ:0 "Texan"
- TEX_anarchism_DEF:0 "The Anarchist Federation of Texas"
- TEX_anarchism:0 "Anarchist Federation of Texas"
+ TEX_anarchism_DEF:0 "The Workers' Federation of Texas"
+ TEX_anarchism:0 "Workers' Federation of Texas"
  TEX_monarchism_ADJ:0 "Texan"
  TEX_monarchism_DEF:0 "The Republic of Texas"
  TEX_monarchism:0 "Republic of Texas"
@@ -3009,8 +3009,8 @@
  ###################################################
  ###################################################
  TGN_anarchism_ADJ:0 "Tanganyikan"
- TGN_anarchism_DEF:0 "The Anarchist Federation of Tanganyika"
- TGN_anarchism:0 "Anarchist Federation of Tanganyika"
+ TGN_anarchism_DEF:0 "The Workers' Federation of Tanganyika"
+ TGN_anarchism:0 "Workers' Federation of Tanganyika"
  TGN_monarchism_ADJ:0 "Tanganyikan"
  TGN_monarchism_DEF:0 "The Tanganyika Territory"
  TGN_monarchism:0 "Tanganyika Territory"
@@ -3050,8 +3050,8 @@
  TRA_christian_democracy_DEF:0 "The Transvaal Colony"
  TRA_christian_democracy:0 "Transvaal Colony"
  TRA_communism_ADJ:0 "Afrikaner"
- TRA_communism_DEF:0 "The Transvaal Colony"
- TRA_communism:0 "Transvaal Colony"
+ TRA_communism_DEF:0 "The Transvaal Commune"
+ TRA_communism:0 "Transvaal Commune"
  TRA_conservatism_ADJ:0 "Afrikaner"
  TRA_conservatism_DEF:0 "The Transvaal Colony"
  TRA_conservatism:0 "Transvaal Colony"
@@ -3073,8 +3073,8 @@
  ###################################################
  ###################################################
  TUR_anarchism_ADJ:0 "Turkish"
- TUR_anarchism_DEF:0 "The Anarchist Federation of Turkey"
- TUR_anarchism:0 "Anarchist Federation of Turkey"
+ TUR_anarchism_DEF:0 "The Workers' Federation of Turkey"
+ TUR_anarchism:0 "Workers' Federation of Turkey"
  TUR_monarchism_ADJ:0 "Turkish"
  TUR_monarchism_DEF:0 "The Ottoman Empire"
  TUR_monarchism:0 "Ottoman Empire"
@@ -3137,8 +3137,8 @@
  ###################################################
  ###################################################
  UOA_anarchism_ADJ:0 "American"
- UOA_anarchism_DEF:0 "The Anarchist Federation of the Midwest"
- UOA_anarchism:0 "Anarchist Federation of the Midwest"
+ UOA_anarchism_DEF:0 "The Workers' Federation of America"
+ UOA_anarchism:0 "Workers' Federation of America"
  UOA_monarchism_ADJ:0 "American"
  UOA_monarchism_DEF:0 "The Republic of the Midwest"
  UOA_monarchism:0 "Republic of the Midwest"
@@ -3161,16 +3161,16 @@
  UOA_social_democracy_DEF:0 "The Republic of the Midwest"
  UOA_social_democracy:0 "Republic of the Midwest"
  UOA_syndicalism_ADJ:0 "American"
- UOA_syndicalism_DEF:0 "The Syndicalist League of America"
- UOA_syndicalism:0 "Syndicalist League of America"
+ UOA_syndicalism_DEF:0 "The American Union"
+ UOA_syndicalism:0 "American Union"
  UOA_ultranationalism_ADJ:0 "American"
  UOA_ultranationalism_DEF:0 "The Republic of the Midwest"
  UOA_ultranationalism:0 "Republic of the Midwest"
  ###################################################
  ###################################################
  URG_anarchism_ADJ:0 "Uruguayan"
- URG_anarchism_DEF:0 "The Anarchist Federation of Uruguay"
- URG_anarchism:0 "Anarchist Federation of Uruguay"
+ URG_anarchism_DEF:0 "The Workers' Federation of Uruguay"
+ URG_anarchism:0 "Workers' Federation of Uruguay"
  URG_monarchism_ADJ:0 "Uruguayan"
  URG_monarchism_DEF:0 "The Oriental Republic of Uruguay"
  URG_monarchism:0 "Oriental Republic of Uruguay"
@@ -3201,8 +3201,8 @@
  ###################################################
  ###################################################
  USA_anarchism_ADJ:0 "American"
- USA_anarchism_DEF:0 "The Anarchist Federation of America"
- USA_anarchism:0 "Anarchist Federation of America"
+ USA_anarchism_DEF:0 "The Workers' Federation of America"
+ USA_anarchism:0 "Workers' Federation of America"
  USA_monarchism_ADJ:0 "American"
  USA_monarchism_DEF:0 "The United States of America"
  USA_monarchism:0 "United States of America"
@@ -3233,8 +3233,8 @@
  ###################################################
  ###################################################
  VEN_anarchism_ADJ:0 "Venezuelan"
- VEN_anarchism_DEF:0 "The Anarchist Federation of Venezuela"
- VEN_anarchism:0 "Anarchist Federation of Venezuela"
+ VEN_anarchism_DEF:0 "The Workers' Federation of Venezuela"
+ VEN_anarchism:0 "Workers' Federation of Venezuela"
  VEN_monarchism_ADJ:0 "Venezuelan"
  VEN_monarchism_DEF:0 "The United States of Venezuela"
  VEN_monarchism:0 "United States of Venezuela"
@@ -3265,8 +3265,8 @@
  ###################################################
  ###################################################
  VIN_anarchism_ADJ:0 "Vietnamese"
- VIN_anarchism_DEF:0 "The Anarchist Federation of Vietnam"
- VIN_anarchism:0 "Anarchist Federation of Vietnam"
+ VIN_anarchism_DEF:0 "The Workers' Federation of Vietnam"
+ VIN_anarchism:0 "Workers' Federation of Vietnam"
  VIN_monarchism_ADJ:0 "Vietnamese"
  VIN_monarchism_DEF:0 "The Empire of Đai Nam"
  VIN_monarchism:0 "Empire of Đai Nam"
@@ -3329,8 +3329,8 @@
  ###################################################
  ###################################################
  YEM_anarchism_ADJ:0 "Yemeni"
- YEM_anarchism_DEF:0 "The Anarchist Federation of Yemen"
- YEM_anarchism:0 "Anarchist Federation of Yemen"
+ YEM_anarchism_DEF:0 "The Workers' Federation of Yemen"
+ YEM_anarchism:0 "Workers' Federation of Yemen"
  YEM_monarchism_ADJ:0 "Yemeni"
  YEM_monarchism_DEF:0 "The Mutawakkilite Kingdom"
  YEM_monarchism:0 "Mutawakkilite Kingdom"
@@ -3361,8 +3361,8 @@
  ###################################################
  ###################################################
  YUG_anarchism_ADJ:0 "Serbian"
- YUG_anarchism_DEF:0 "The Anarchist Federation of Serbia"
- YUG_anarchism:0 "Anarchist Federation of Serbia"
+ YUG_anarchism_DEF:0 "The Workers' Federation of Serbia"
+ YUG_anarchism:0 "Workers' Federation of Serbia"
  YUG_monarchism_ADJ:0 "Serbian"
  YUG_monarchism_DEF:0 "The Kingdom of Serbia"
  YUG_monarchism:0 "Kingdom of Serbia"
@@ -3393,8 +3393,8 @@
  ###################################################
  ###################################################
  ZIM_anarchism_ADJ:0 "Rhodesian"
- ZIM_anarchism_DEF:0 "The Anarchist Federation of Rhodesia"
- ZIM_anarchism:0 "Anarchist Federation of Rhodesia"
+ ZIM_anarchism_DEF:0 "The Workers' Federation of Rhodesia"
+ ZIM_anarchism:0 "Workers' Federation of Rhodesia"
  ZIM_monarchism_ADJ:0 "Rhodesian"
  ZIM_monarchism_DEF:0 "The State of Rhodesia"
  ZIM_monarchism:0 "State of Rhodesia"

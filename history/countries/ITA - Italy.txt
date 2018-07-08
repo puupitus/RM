@@ -1,7 +1,7 @@
 ﻿capital = 2
 
 oob = "ITA"
-set_cosmetic_tag = ITA_ana
+set_cosmetic_tag = ITA_syn
 ########## PUPPETS #################
 
 
@@ -67,7 +67,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = anarchism
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
