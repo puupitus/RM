@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 160 160 160 }
 }
 ENG = {
-	color = rgb { 170 0 0 }
-	color_ui = rgb { 170 0 0 }
+	color = rgb { 0 74 127 }
+	color_ui = rgb { 0 74 127 }
 }
 SOV = {
 	color = rgb { 115 0 0 }
@@ -74,8 +74,8 @@ SWI = {
 	color_ui = rgb { 0 156 0 }
 }
 TUR = {
-	color = rgb { 214 10 10 }
-	color_ui = rgb { 214 10 10 }
+	color = rgb { 185 0 0 }
+	color_ui = rgb { 185 0 0 }
 }
 GRE = {
 	color = rgb { 93 181 227 }
@@ -623,6 +623,6 @@ PAT = {
     color_ui = rgb { 107 219 120 }
 }
 FIU = {
-    color = rgb { 107 197 103 }
-    color_ui = rgb { 107 197 103 }
+    color = rgb { 219 189 21 }
+    color_ui = rgb { 219 189 21 }
 }

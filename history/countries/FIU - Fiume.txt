@@ -1,7 +1,6 @@
 capital = 736
 
 oob = "FIU"
-create_faction = "Fascist International"
 ########## PUPPETS #################
 
 

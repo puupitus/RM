@@ -1,7 +1,6 @@
 ﻿capital = 41
 
 oob = "SPR"
-set_cosmetic_tag = SPR_ana
 ########## PUPPETS #################
 
 

@@ -9,7 +9,7 @@ state={
 	state_category = large_city
 
 	history={
-		owner = FIU
+		owner = ITA
 		victory_points = {
 			6626 1
 		}
