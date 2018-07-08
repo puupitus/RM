@@ -11,8 +11,8 @@ FIN_com = {
 	color_ui = rgb { 115 0 0 }
 }
 GER_com = {
-	color = rgb { 115 0 0 }
-	color_ui = rgb { 115 0 0 }
+	color = rgb { 155 40 40 }
+	color_ui = rgb { 155 40 40 }
 }
 SOV_com = {
 	color = rgb { 115 0 0 }
@@ -127,8 +127,8 @@ MAL_bri = {
 	color_ui = rgb { 175 0 30 }
 }
 MEX_ana = {
-	color = rgb { 25 25 25 }
-	color_ui = rgb { 25 25 25 }
+	color = rgb { 60 60 60 }
+	color_ui = rgb { 60 60 60 }
 }
 NAT_bri = {
 	color = rgb { 175 0 30 }

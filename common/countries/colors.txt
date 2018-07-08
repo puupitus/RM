@@ -58,8 +58,8 @@ SPR = {
 	color_ui = rgb { 99 3 86 }
 }
 ITA = {
-	color = rgb { 107 197 103 }
-	color_ui = rgb { 107 197 103 }
+	color = rgb { 215 5 5 }
+	color_ui = rgb { 215 5 5 }
 }
 ROM = {
 	color = rgb { 215 196 72 }
@@ -623,6 +623,6 @@ PAT = {
     color_ui = rgb { 107 219 120 }
 }
 FIU = {
-    color = rgb { 229 198 22 }
-    color_ui = rgb { 229 198 22 }
+    color = rgb { 107 197 103 }
+    color_ui = rgb { 107 197 103 }
 }

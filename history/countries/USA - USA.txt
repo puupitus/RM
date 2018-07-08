@@ -1,7 +1,7 @@
 ﻿capital = 361
 
 oob = "USA"
-
+create_faction = "New World Order"
 ########## PUPPETS #################
 
 

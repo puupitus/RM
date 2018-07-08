@@ -3,7 +3,6 @@
 oob = "RAJ"
 set_cosmetic_tag = RAJ_bri
 create_faction = "Imperial Entente"
-add_to_faction = JAP
 
 ########## PUPPETS #################
 

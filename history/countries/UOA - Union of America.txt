@@ -3,6 +3,7 @@ capital = 395
 
 oob = "UOA"
 set_cosmetic_tag = UOA_syn
+create_faction = "Industrial Workers of the World"
 ########## PUPPETS #################
 
 

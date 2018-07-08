@@ -2,14 +2,8 @@
 
 oob = "FRA"
 create_faction = "League of Nations"
-add_to_faction = CZE
 add_to_faction = SAA
-add_to_faction = LUX
-add_to_faction = SWI
 add_to_faction = XSM
-add_to_faction = LIB
-add_to_faction = AFN
-add_to_faction = VIN
 ########## PUPPETS #################
 
 
