@@ -3,6 +3,7 @@
 oob = "MEX"
 set_cosmetic_tag = MEX_ana
 create_faction = "Black International"
+add_to_faction = PAT
 ########## PUPPETS #################
 
 

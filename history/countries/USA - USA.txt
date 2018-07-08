@@ -2,6 +2,10 @@
 
 oob = "USA"
 create_faction = "New World Order"
+add_to_faction = ENG
+add_to_faction = AUS
+add_to_faction = FIU
+add_to_faction = CRO
 ########## PUPPETS #################
 
 

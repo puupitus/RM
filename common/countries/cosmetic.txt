@@ -55,12 +55,12 @@ MON_com = {
 	color_ui = rgb { 115 0 0 }
 }
 AFN_fra = {
-	color = rgb { 0 74 157 }
-	color_ui = rgb { 0 74 157 }
+	color = rgb { 0 84 167 }
+	color_ui = rgb { 0 84 167 }
 }
 VIN_fra = {
-	color = rgb { 0 74 157 }
-	color_ui = rgb { 0 74 157 }
+	color = rgb { 0 84 167 }
+	color_ui = rgb { 0 84 167 }
 }
 COG_bel = {
 	color = rgb { 250 225 64 }

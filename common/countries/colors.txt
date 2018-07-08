@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 160 160 160 }
 }
 ENG = {
-	color = rgb { 0 74 127 }
-	color_ui = rgb { 0 74 127 }
+	color = rgb { 0 64 117 }
+	color_ui = rgb { 0 64 117 }
 }
 SOV = {
 	color = rgb { 115 0 0 }
@@ -17,8 +17,8 @@ SWE = {
 	color_ui = rgb { 234 206 68  }
 }
 FRA = {
-	color = rgb { 0 74 157 }
-	color_ui = rgb { 0 74 157 }
+	color = rgb { 0 84 167 }
+	color_ui = rgb { 0 84 167 }
 }
 LUX = {
 	color = rgb { 65 175 179 }
@@ -54,12 +54,12 @@ LAT = {
 	color_ui = rgb { 159 44 54 }
 }
 SPR = {
-	color = rgb { 99 3 86 }
-	color_ui = rgb { 99 3 86 }
+	color = rgb { 109 23 96 }
+	color_ui = rgb { 109 23 96 }
 }
 ITA = {
-	color = rgb { 215 5 5 }
-	color_ui = rgb { 215 5 5 }
+	color = rgb { 76 198 20 }
+	color_ui = rgb { 76 198 20 }
 }
 ROM = {
 	color = rgb { 215 196 72 }
@@ -286,12 +286,12 @@ HAI = {
 	color_ui = rgb { 174 113 113 }
 }
 YEM = {
-	color = rgb { 158 132 132 }
-	color_ui = rgb { 158 132 132 }
+	color = rgb { 178 152 152 }
+	color_ui = rgb { 178 152 152 }
 }
 OMA = {
-	color = rgb { 155 101 107 }
-	color_ui = rgb { 202 131 139 }
+	color = rgb { 145 91 97 }
+	color_ui = rgb { 145 91 97 }
 }
 SLO = {
 	color = rgb { 158  161  188 }
@@ -303,8 +303,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 197 92 106 }
+	color = rgb { 227 82 96 }
+	color_ui = rgb { 227 82 96 }
 }
 
 PRC = {
@@ -353,8 +353,8 @@ JOR = {
 }
 
 SYR = {
-	color = rgb { 95 75 75 }
-	color_ui = rgb { 95 75 75 }
+	color = rgb { 105 85 85 }
+	color_ui = rgb { 105 85 85 }
 }
 
 SER = {
