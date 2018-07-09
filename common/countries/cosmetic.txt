@@ -166,3 +166,7 @@ SWI_swi = {
 	color = rgb { 224 5 5 }
 	color_ui = rgb { 224 5 5 }
 }
+ENG_rep = {
+	color = rgb { 70 186 66 }
+	color_ui = rgb { 70 186 66 }
+}

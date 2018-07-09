@@ -161,8 +161,8 @@
  ###################################################
  ###################################################
  AST_libertarian_socialism_ADJ:0 "Australasian"
- AST_libertarian_socialism_DEF:0 "The Workers' Federation of Australasia"
- AST_libertarian_socialism:0 "Workers' Federation of Australasia"
+ AST_libertarian_socialism_DEF:0 "The Australasian Union"
+ AST_libertarian_socialism:0 "Australasian Union"
  AST_authoritarianism_ADJ:0 "Australasian"
  AST_authoritarianism_DEF:0 "The Federation of Australasia"
  AST_authoritarianism:0 "Federation of Australasia"
@@ -1185,8 +1185,8 @@
  ###################################################
  ###################################################
  FLA_libertarian_socialism_ADJ:0 "Flemish"
- FLA_libertarian_socialism_DEF:0 "The Workers' Federation of Flanders"
- FLA_libertarian_socialism:0 "Workers' Federation of Flanders"
+ FLA_libertarian_socialism_DEF:0 "The Flemish Syndicate"
+ FLA_libertarian_socialism:0 "Flemish Syndicate"
  FLA_authoritarianism_ADJ:0 "Flemish"
  FLA_authoritarianism_DEF:0 "The State of Flanders"
  FLA_authoritarianism:0 "State of Flanders"

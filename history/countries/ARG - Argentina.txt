@@ -1,7 +1,7 @@
 ﻿capital = 278
 
 oob = "ARG"
-
+set_cosmetic_tag = ARG_ult
 ########## PUPPETS #################
 
 
