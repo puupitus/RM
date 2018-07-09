@@ -1,24 +1,24 @@
 ideologies = {
 
 
-monarchism = {
+ultranationalism = {
 
 		types = {
 
-      monarchist = {
+      ultranationalist = {
 			}
 
 		}
 
 		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
+		"FACTION_NAME_FASCIST_1"
+		"FACTION_NAME_FASCIST_2"
+		"FACTION_NAME_FASCIST_3"
+		"FACTION_NAME_FASCIST_4"
+		"FACTION_NAME_FASCIST_5"
 		}
 
-		color = { 100 0 150 }
+		color = { 0 193 193 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0

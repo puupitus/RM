@@ -33,7 +33,7 @@ bookmarks = {
 		}
 		"ITA"={
 			history = "ITA_RM_DESC"
-			ideology = syndicalism
+			ideology = national_socialism
 			ideas = {	}
 			focuses = { }
 		}
@@ -45,7 +45,7 @@ bookmarks = {
 		}
 		"JAP"={
 			history = "JAP_RM_DESC"
-			ideology = monarchism
+			ideology = authoritarianism
 			ideas = {	}
 			focuses = { }
 		}

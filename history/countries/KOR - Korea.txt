@@ -1,7 +1,6 @@
-﻿capital = 525
+
 
 oob = "KOR"
-set_cosmetic_tag = KOR_jap
 ########## PUPPETS #################
 
 
@@ -36,10 +35,10 @@ set_politics = {
 
 		parties = {
 
-		anarchism = {
+		libertarian_socialism = {
       popularity = 10
     }
-    syndicalism = {
+    national_socialism = {
 			popularity = 10
 		}
 		communism = {
@@ -57,7 +56,7 @@ set_politics = {
     conservatism = {
 			popularity = 10
 		}
-		monarchism = {
+		authoritarianism = {
 			popularity = 10
 		}
 		fascism = {
@@ -67,7 +66,7 @@ set_politics = {
 			popularity = 10
 		}
 	}
-	ruling_party = monarchism
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -78,7 +77,7 @@ set_politics = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = anarchist
+	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
@@ -99,7 +98,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = syndicalist
+	ideology = national_socialist
 	traits = { rm_default }
 }
 
@@ -127,7 +126,7 @@ create_country_leader = {
 create_country_leader = {
   name = ""
 	picture = ""
-	ideology = monarchist
+	ideology = authoritarian
 	traits = { rm_default }
 }
 

@@ -2,9 +2,9 @@ state={
 	id=73
 	name="STATE_73"
 	manpower = 854300
-	
+
 	state_category = rural
-	
+
 	history={
 		owner = CZE
 		buildings = {
@@ -23,6 +23,6 @@ state={
 	}
 
 	provinces={
-		3548 6571 9563 11536 11691 
+		3548 6571 9563 11536 11691
 	}
 }
