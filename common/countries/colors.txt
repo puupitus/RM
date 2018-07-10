@@ -138,8 +138,8 @@ BRA = {
 	color_ui = rgb { 0 177 239 }
 }
 CAN = {
-	color = rgb { 119 48 39 }
-	color_ui = rgb { 155 62 51 }
+	color = rgb { 219 198 189 }
+	color_ui = rgb { 219 198 189 }
 }
 CHI = {
 	color = rgb { 75 109 137  }
@@ -625,4 +625,8 @@ PAT = {
 FIU = {
     color = rgb { 219 189 21 }
     color_ui = rgb { 219 189 21 }
+}
+SVN = {
+    color = rgb { 220 220 220 }
+    color_ui = rgb { 220 220 220 }
 }

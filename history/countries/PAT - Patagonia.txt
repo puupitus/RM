@@ -1,4 +1,4 @@
-capital = 510
+capital = 512
 
 oob = "PAT"
 set_cosmetic_tag = PAT_ana

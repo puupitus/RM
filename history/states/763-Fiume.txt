@@ -1,17 +1,19 @@
 state={
-	id=736
-	name="STATE_736"
+	id=763
+	name="STATE_763"
 
 	state_category = city
 
 	history={
-		owner = SVN
-
+		owner = FIU
+		victory_points = {
+			11564 3
+		}
 		add_core_of = ITA
 		add_core_of = YUG
 		buildings = {
 			infrastructure = 2
-			11735 = {
+			11564 = {
 				naval_base = 5
 
 			}
@@ -21,8 +23,8 @@ state={
 	}
 
 	provinces={
-	 599 6626 11595 11735
+		11564
 	}
-	manpower=1063159
+	manpower=763159
 	buildings_max_level_factor=1.000
 }

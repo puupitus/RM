@@ -14,7 +14,7 @@ add_to_faction = DDR
 add_to_faction = GEO
 add_to_faction = KAZ
 add_to_faction = MON
-
+add_to_faction = HUN
 ########## PUPPETS #################
 
 
