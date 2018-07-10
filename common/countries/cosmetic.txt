@@ -1,8 +1,16 @@
+COS_com = {
+	color = rgb { 151 31 20 }
+	color_ui = rgb { 151 31 20 }
+}
 EST_com = {
 	color = rgb { 115 0 0 }
 	color_ui = rgb { 115 0 0 }
 }
 FIN_com = {
+	color = rgb { 115 0 0 }
+	color_ui = rgb { 115 0 0 }
+}
+HUN_com = {
 	color = rgb { 115 0 0 }
 	color_ui = rgb { 115 0 0 }
 }

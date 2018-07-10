@@ -1,6 +1,6 @@
 ﻿capital = 316
 oob = "COS"
-
+set_cosmetic_tag = COS_com
 ########## PUPPETS #################
 
 
