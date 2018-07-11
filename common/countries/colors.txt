@@ -630,3 +630,7 @@ SVN = {
     color = rgb { 220 220 220 }
     color_ui = rgb { 220 220 220 }
 }
+DON = {
+    color = rgb { 45 45 45 }
+    color_ui = rgb { 45 45 45 }
+}

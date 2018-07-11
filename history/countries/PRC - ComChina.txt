@@ -1,7 +1,7 @@
 ﻿capital = 600
 
 oob = "PRC"
-set_cosmetic_tag = PRC_jia
+set_cosmetic_tag = PRC_com
 ########## PUPPETS #################
 
 
