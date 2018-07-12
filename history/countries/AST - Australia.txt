@@ -37,34 +37,34 @@ set_politics = {
 		parties = {
 
 		libertarian_socialism = {
-      popularity = 10
+      popularity = 42
     }
     national_socialism = {
-			popularity = 10
+			popularity = 0
 		}
 		communism = {
-			popularity = 10
+			popularity = 16
 		}
 		social_democracy = {
-			popularity = 10
+			popularity = 17
 		}
 		liberalism = {
-			popularity = 10
+			popularity = 13
 		}
 		christian_democracy = {
-      popularity = 10
+      popularity = 0
     }
     conservatism = {
-			popularity = 10
+			popularity = 0
 		}
 		authoritarianism = {
-			popularity = 10
+			popularity = 0
 		}
 		fascism = {
-			popularity = 10
+			popularity = 12
 		}
 		ultranationalism = {
-			popularity = 10
+			popularity = 0
 		}
 	}
 	ruling_party = libertarian_socialism
@@ -76,71 +76,71 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jock Garden"
+	picture = "jock_garden.dds"
 	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Joseph Lyons"
+	picture = "joseph_lyons.dds"
 	ideology = christian_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Adela Pankhurst"
+	picture = "adela_pankhurst.dds"
 	ideology = communist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Eric Campbell"
+	picture = "eric_campbell.dds"
 	ideology = national_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "James Scullin"
+	picture = "james_scullin.dds"
 	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Robert Menzies"
+	picture = "robert_menzies.dds"
 	ideology = liberal
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Robert Menzies"
+	picture = "robert_menzies.dds"
 	ideology = conservative
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Robert Menzies"
+	picture = "robert_menzies.dds"
 	ideology = authoritarian
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Eric Campbell"
+	picture = "eric_campbell.dds"
 	ideology = fascist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Eric Campbell"
+	picture = "eric_campbell.dds"
 	ideology = ultranationalist
 	traits = { rm_default }
 }

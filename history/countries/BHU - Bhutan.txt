@@ -37,34 +37,34 @@ set_politics = {
 		parties = {
 
 		libertarian_socialism = {
-      popularity = 10
+      popularity = 5
     }
     national_socialism = {
-			popularity = 10
+			popularity = 5
 		}
 		communism = {
-			popularity = 10
+			popularity = 5
 		}
 		social_democracy = {
-			popularity = 10
+			popularity = 5
 		}
 		liberalism = {
-			popularity = 10
+			popularity = 5
 		}
 		christian_democracy = {
-      popularity = 10
+      popularity = 5
     }
     conservatism = {
-			popularity = 10
+			popularity = 5
 		}
 		authoritarianism = {
-			popularity = 10
+			popularity = 55
 		}
 		fascism = {
-			popularity = 10
+			popularity = 5
 		}
 		ultranationalism = {
-			popularity = 10
+			popularity = 5
 		}
 	}
 	ruling_party = authoritarianism
@@ -76,71 +76,71 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = christian_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = communist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = national_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = liberal
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = conservative
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = authoritarian
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = fascist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Jigme Wangchuck"
+	picture = "jigme_wangchuck.dds"
 	ideology = ultranationalist
 	traits = { rm_default }
 }

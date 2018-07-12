@@ -37,34 +37,34 @@ set_politics = {
 		parties = {
 
 		libertarian_socialism = {
-      popularity = 10
+      popularity = 0
     }
     national_socialism = {
-			popularity = 10
+			popularity = 20
 		}
 		communism = {
-			popularity = 10
+			popularity = 14
 		}
 		social_democracy = {
-			popularity = 10
+			popularity = 17
 		}
 		liberalism = {
-			popularity = 10
+			popularity = 0
 		}
 		christian_democracy = {
-      popularity = 10
+      popularity = 12
     }
     conservatism = {
-			popularity = 10
+			popularity = 0
 		}
 		authoritarianism = {
-			popularity = 10
+			popularity = 0
 		}
 		fascism = {
-			popularity = 10
+			popularity = 37
 		}
 		ultranationalism = {
-			popularity = 10
+			popularity = 0
 		}
 	}
 	ruling_party = fascism
@@ -76,71 +76,71 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Johann Koplenig"
+	picture = "johann_koplenig.dds"
 	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Otto Ender"
+	picture = "otto_ender.dds"
 	ideology = christian_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Johann Koplenig"
+	picture = "johann_koplenig.dds"
 	ideology = communist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Konrad Henlein"
+	picture = "konrad_henlein.dds"
 	ideology = national_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Karl Renner"
+	picture = "karl_renner.dds"
 	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Karl Renner"
+	picture = "karl_renner.dds"
 	ideology = liberal
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Otto Ender"
+	picture = "otto_ender.dds"
 	ideology = conservative
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Engelbert Dollfuss"
+	picture = "engelbert_dollfuss.dds"
 	ideology = authoritarian
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Engelbert Dollfuss"
+	picture = "engelbert_dollfuss.dds"
 	ideology = fascist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Engelbert Dollfuss"
+	picture = "engelbert_dollfuss.dds"
 	ideology = ultranationalist
 	traits = { rm_default }
 }

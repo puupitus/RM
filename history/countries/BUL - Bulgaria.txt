@@ -37,34 +37,34 @@ set_politics = {
 		parties = {
 
 		libertarian_socialism = {
-      popularity = 10
+      popularity = 0
     }
     national_socialism = {
-			popularity = 10
+			popularity = 0
 		}
 		communism = {
-			popularity = 10
+			popularity = 12
 		}
 		social_democracy = {
 			popularity = 10
 		}
 		liberalism = {
-			popularity = 10
+			popularity = 13
 		}
 		christian_democracy = {
-      popularity = 10
+      popularity = 0
     }
     conservatism = {
-			popularity = 10
+			popularity = 0
 		}
 		authoritarianism = {
-			popularity = 10
+			popularity = 42
 		}
 		fascism = {
-			popularity = 10
+			popularity = 0
 		}
 		ultranationalism = {
-			popularity = 10
+			popularity = 23
 		}
 	}
 	ruling_party = authoritarianism
@@ -76,71 +76,71 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Vasil Kolarov"
+	picture = "vasil_kolarov.dds"
 	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Kimon Georgiev"
+	picture = "kimon_georgiev.dds"
 	ideology = christian_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Vasil Kolarov"
+	picture = "vasil_kolarov.dds"
 	ideology = communist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Hristo Lukov"
+	picture = "hristo_lukov.dds"
 	ideology = national_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Kimon Georgiev"
+	picture = "kimon_georgiev.dds"
 	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Nikola Mushanov"
+	picture = "nikola_mushanov.dds"
 	ideology = liberal
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Kimon Georgiev"
+	picture = "kimon_georgiev.dds"
 	ideology = conservative
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Boris III"
+	picture = "boris_iii.dds"
 	ideology = authoritarian
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Hristo Lukov"
+	picture = "hristo_lukov.dds"
 	ideology = fascist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+  name = "Hristo Lukov"
+	picture = "hristo_lukov.dds"
 	ideology = ultranationalist
 	traits = { rm_default }
 }

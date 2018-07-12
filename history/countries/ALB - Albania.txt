@@ -37,34 +37,34 @@ set_politics = {
 		parties = {
 
 		libertarian_socialism = {
-      popularity = 10
+      popularity = 0
     }
     national_socialism = {
-			popularity = 10
+			popularity = 0
 		}
 		communism = {
-			popularity = 10
+			popularity = 29
 		}
 		social_democracy = {
-			popularity = 10
+			popularity = 0
 		}
 		liberalism = {
-			popularity = 10
+			popularity = 14
 		}
 		christian_democracy = {
-      popularity = 10
+      popularity = 0
     }
     conservatism = {
-			popularity = 10
+			popularity = 0
 		}
 		authoritarianism = {
-			popularity = 10
+			popularity = 41
 		}
 		fascism = {
-			popularity = 10
+			popularity = 16
 		}
 		ultranationalism = {
-			popularity = 10
+			popularity = 0
 		}
 	}
 	ruling_party = authoritarianism
@@ -76,71 +76,71 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Enver Hoxha"
+	picture = "enver_hoxha.dds"
 	ideology = libertarian_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
 	ideology = christian_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Enver Hoxha"
+	picture = "enver_hoxha.dds"
 	ideology = communist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+	name = "Tefik Mborja"
+	picture = "tefik_mborja.dds"
 	ideology = national_socialist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
 	ideology = social_democrat
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
 	ideology = liberal
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
 	ideology = conservative
 	traits = { rm_default }
 }
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Zog I"
+	picture = "ahmet_zogu.dds"
 	ideology = authoritarian
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Tefik Mborja"
+	picture = "tefik_mborja.dds"
 	ideology = fascist
 	traits = { rm_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Tefik Mborja"
+	picture = "tefik_mborja.dds"
 	ideology = ultranationalist
 	traits = { rm_default }
 }

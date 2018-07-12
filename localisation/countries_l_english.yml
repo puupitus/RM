@@ -89,11 +89,11 @@
  ALB_social_democracy_DEF:0 "The Republic of Albania"
  ALB_social_democracy:0 "Republic of Albania"
  ALB_national_socialism_ADJ:0 "Albanian"
- ALB_national_socialism_DEF:0 "The Kingdom of Albania"
- ALB_national_socialism:0 "Kingdom of Albania"
+ ALB_national_socialism_DEF:0 "The Republic of Albania"
+ ALB_national_socialism:0 "Republic of Albania"
  ALB_ultranationalism_ADJ:0 "Albanian"
- ALB_ultranationalism_DEF:0 "The Kingdom of Albania"
- ALB_ultranationalism:0 "Kingdom of Albania"
+ ALB_ultranationalism_DEF:0 "The Republic of Albania"
+ ALB_ultranationalism:0 "Republic of Albania"
  ###################################################
  ###################################################
  ANG_libertarian_socialism_ADJ:0 "Angolan"
@@ -257,8 +257,8 @@
  ###################################################
  ###################################################
  BEL_libertarian_socialism_ADJ:0 "Wallonian"
- BEL_libertarian_socialism_DEF:0 "The Workers' Federation of Wallonia"
- BEL_libertarian_socialism:0 "Workers' Federation of Wallonia"
+ BEL_libertarian_socialism_DEF:0 "The Syndicate of Wallonia"
+ BEL_libertarian_socialism:0 "Syndicate of Wallonia"
  BEL_authoritarianism_ADJ:0 "Wallonian"
  BEL_authoritarianism_DEF:0 "The Republic of Wallonia"
  BEL_authoritarianism:0 "Republic of Wallonia"
